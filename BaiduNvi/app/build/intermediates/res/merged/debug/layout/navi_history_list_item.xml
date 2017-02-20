@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/setting_item_height"
+    android:background="@drawable/ui_setting_item_bg"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="73dp" >
+
+        <ImageView
+            android:id="@+id/imageSignal"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="40dp"
+            android:src="@drawable/ui_setting_voice_speak_hour" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/imageSignal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textKey"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="科技园"
+                android:textColor="#ffffff"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutDelete"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/ui_back_arrow_bg_grey" >
+
+            <ImageView
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/ui_navi_history_delete" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

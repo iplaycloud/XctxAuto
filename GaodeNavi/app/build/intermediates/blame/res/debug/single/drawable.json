@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_back_arrow_bg_transparent.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\ui_back_arrow_bg_transparent.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_button.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\cancel_button.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_button.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\ok_button.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_search.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\ui_near_search.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_setting_item_bg.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\ui_setting_item_bg.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable\\actionsheet_single_selector.xml"
+    }
+]

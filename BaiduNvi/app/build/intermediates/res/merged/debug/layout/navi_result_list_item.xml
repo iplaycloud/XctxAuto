@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/setting_item_height"
+    android:background="@drawable/ui_setting_item_bg"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="73dp" >
+
+        <ImageView
+            android:id="@+id/imageNavi"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/ui_icon_navigate_list" />
+
+        <TextView
+            android:id="@+id/textVoiceId"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="33dp"
+            android:text=""
+            android:textColor="#ffffff"
+            android:textSize="35sp" />
+
+        <TextView
+            android:id="@+id/textDistance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:text="距离5.5Km"
+            android:textColor="@color/setting_item_title_color"
+            android:textSize="25sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@id/textDistance"
+            android:layout_toRightOf="@id/imageNavi"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textName"
+                android:layout_width="500dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:singleLine="true"
+                android:text="科技园"
+                android:textColor="#ffffff"
+                android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/textDetail"
+                android:layout_width="500dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:singleLine="true"
+                android:text="中华人民共和国广东省深圳市宝安区西乡街道"
+                android:textColor="@color/setting_item_title_color"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

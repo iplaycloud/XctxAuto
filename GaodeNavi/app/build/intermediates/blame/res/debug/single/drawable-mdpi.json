@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_near_search_normal.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ui_near_search_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ok.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ok.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cancel_p.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\cancel_p.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ok_d.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ok_d.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_near_arrow_back.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ui_near_arrow_back.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_setting_item_bg_normal.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ui_setting_item_bg_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_icon_infowindow_navi_m.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ui_icon_infowindow_navi_m.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cancel.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\cancel.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_setting_item_bg_pressed.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ui_setting_item_bg_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ok_p.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ok_p.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\superman.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\superman.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_icon_infowindow_simulate_m.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ui_icon_infowindow_simulate_m.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_icon_navigate_list.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ui_icon_navigate_list.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_near_search_pressed.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\drawable-mdpi\\ui_near_search_pressed.png"
+    }
+]

@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res"/><source path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\generated\res\rs\debug"/><source path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res"><file name="actionsheet_push_up_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\actionsheet_push_up_in.xml" qualifiers="" type="anim"/><file name="actionsheet_push_up_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\actionsheet_push_up_out.xml" qualifiers="" type="anim"/><file name="dialog_main_hide_amination" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\dialog_main_hide_amination.xml" qualifiers="" type="anim"/><file name="dialog_main_show_amination" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\dialog_main_show_amination.xml" qualifiers="" type="anim"/><file name="dialog_root_hide_amin" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\dialog_root_hide_amin.xml" qualifiers="" type="anim"/><file name="dialog_root_show_amin" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\dialog_root_show_amin.xml" qualifiers="" type="anim"/><file name="fade" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\fade.xml" qualifiers="" type="anim"/><file name="hold" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\hold.xml" qualifiers="" type="anim"/><file name="hyperspace_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\hyperspace_in.xml" qualifiers="" type="anim"/><file name="hyperspace_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\hyperspace_out.xml" qualifiers="" type="anim"/><file name="music_dialog_exit_fade_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_dialog_exit_fade_out.xml" qualifiers="" type="anim"/><file name="music_dialog_exit_slide_left" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_dialog_exit_slide_left.xml" qualifiers="" type="anim"/><file name="music_dialog_exit_slide_up" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_dialog_exit_slide_up.xml" qualifiers="" type="anim"/><file name="music_fade_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_fade_in.xml" qualifiers="" type="anim"/><file name="music_fade_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_fade_out.xml" qualifiers="" type="anim"/><file name="music_push_bottom_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_push_bottom_in.xml" qualifiers="" type="anim"/><file name="music_push_bottom_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_push_bottom_out.xml" qualifiers="" type="anim"/><file name="music_push_left_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_push_left_in.xml" qualifiers="" type="anim"/><file name="music_push_left_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\music_push_left_out.xml" qualifiers="" type="anim"/><file name="my_alpha_action" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\my_alpha_action.xml" qualifiers="" type="anim"/><file name="my_scale_action" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\my_scale_action.xml" qualifiers="" type="anim"/><file name="progress_indeterminate_animation" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\progress_indeterminate_animation.xml" qualifiers="" type="anim"/><file name="push_up_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\push_up_in.xml" qualifiers="" type="anim"/><file name="push_up_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\push_up_out.xml" qualifiers="" type="anim"/><file name="route_list_slide_left" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\route_list_slide_left.xml" qualifiers="" type="anim"/><file name="scale_rotate" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\scale_rotate.xml" qualifiers="" type="anim"/><file name="scale_translate" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\scale_translate.xml" qualifiers="" type="anim"/><file name="scale_translate_rotate" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\scale_translate_rotate.xml" qualifiers="" type="anim"/><file name="slide_down_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\slide_down_out.xml" qualifiers="" type="anim"/><file name="slide_left" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\slide_left.xml" qualifiers="" type="anim"/><file name="slide_right" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\slide_right.xml" qualifiers="" type="anim"/><file name="slide_up_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\slide_up_in.xml" qualifiers="" type="anim"/><file name="snackbar_hide_animation" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\snackbar_hide_animation.xml" qualifiers="" type="anim"/><file name="snackbar_show_animation" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\snackbar_show_animation.xml" qualifiers="" type="anim"/><file name="wave_scale" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\wave_scale.xml" qualifiers="" type="anim"/><file name="zms_translate_down_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zms_translate_down_in.xml" qualifiers="" type="anim"/><file name="zms_translate_down_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zms_translate_down_out.xml" qualifiers="" type="anim"/><file name="zms_translate_left_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zms_translate_left_in.xml" qualifiers="" type="anim"/><file name="zms_translate_left_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zms_translate_left_out.xml" qualifiers="" type="anim"/><file name="zms_translate_right_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zms_translate_right_in.xml" qualifiers="" type="anim"/><file name="zms_translate_right_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zms_translate_right_out.xml" qualifiers="" type="anim"/><file name="zms_translate_up_in" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zms_translate_up_in.xml" qualifiers="" type="anim"/><file name="zms_translate_up_out" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zms_translate_up_out.xml" qualifiers="" type="anim"/><file name="zoom_enter" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zoom_enter.xml" qualifiers="" type="anim"/><file name="zoom_exit" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\anim\zoom_exit.xml" qualifiers="" type="anim"/><file name="actionsheet_bottom_selector" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\actionsheet_bottom_selector.xml" qualifiers="" type="drawable"/><file name="actionsheet_middle_selector" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\actionsheet_middle_selector.xml" qualifiers="" type="drawable"/><file name="actionsheet_single_selector" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\actionsheet_single_selector.xml" qualifiers="" type="drawable"/><file name="actionsheet_top_selector" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\actionsheet_top_selector.xml" qualifiers="" type="drawable"/><file name="anim_hand_click" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\anim_hand_click.xml" qualifiers="" type="drawable"/><file name="cancel_button" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\cancel_button.xml" qualifiers="" type="drawable"/><file name="ok_button" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ok_button.xml" qualifiers="" type="drawable"/><file name="shape_locate_bg" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\shape_locate_bg.xml" qualifiers="" type="drawable"/><file name="shape_locate_bg_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\shape_locate_bg_normal.xml" qualifiers="" type="drawable"/><file name="shape_locate_bg_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\shape_locate_bg_pressed.xml" qualifiers="" type="drawable"/><file name="shape_setting_volume_bg" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\shape_setting_volume_bg.xml" qualifiers="" type="drawable"/><file name="ui_back_arrow_bg_black" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_back_arrow_bg_black.xml" qualifiers="" type="drawable"/><file name="ui_back_arrow_bg_blue" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_back_arrow_bg_blue.xml" qualifiers="" type="drawable"/><file name="ui_back_arrow_bg_grey" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_back_arrow_bg_grey.xml" qualifiers="" type="drawable"/><file name="ui_back_arrow_bg_transparent" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_back_arrow_bg_transparent.xml" qualifiers="" type="drawable"/><file name="ui_near_4s" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_near_4s.xml" qualifiers="" type="drawable"/><file name="ui_near_atm" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_near_atm.xml" qualifiers="" type="drawable"/><file name="ui_near_hotel" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_near_hotel.xml" qualifiers="" type="drawable"/><file name="ui_near_oil" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_near_oil.xml" qualifiers="" type="drawable"/><file name="ui_near_parking" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_near_parking.xml" qualifiers="" type="drawable"/><file name="ui_near_search" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_near_search.xml" qualifiers="" type="drawable"/><file name="ui_near_search_voice" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_near_search_voice.xml" qualifiers="" type="drawable"/><file name="ui_near_shop" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_near_shop.xml" qualifiers="" type="drawable"/><file name="ui_setting_item_bg" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_setting_item_bg.xml" qualifiers="" type="drawable"/><file name="ui_sync_cloud" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_sync_cloud.xml" qualifiers="" type="drawable"/><file name="ui_voice_listen" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable\ui_voice_listen.xml" qualifiers="" type="drawable"/><file name="actionsheet_bottom_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\actionsheet_bottom_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="actionsheet_bottom_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\actionsheet_bottom_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="actionsheet_middle_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\actionsheet_middle_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="actionsheet_middle_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\actionsheet_middle_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="actionsheet_single_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\actionsheet_single_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="actionsheet_single_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\actionsheet_single_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="actionsheet_top_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\actionsheet_top_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="actionsheet_top_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\actionsheet_top_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="skin_background" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-hdpi\skin_background.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_hand_click_00" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\anim_hand_click_00.png" qualifiers="mdpi-v4" type="drawable"/><file name="anim_hand_click_01" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\anim_hand_click_01.png" qualifiers="mdpi-v4" type="drawable"/><file name="anim_hand_click_02" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\anim_hand_click_02.png" qualifiers="mdpi-v4" type="drawable"/><file name="anim_hand_click_03" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\anim_hand_click_03.png" qualifiers="mdpi-v4" type="drawable"/><file name="anim_hand_click_04" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\anim_hand_click_04.png" qualifiers="mdpi-v4" type="drawable"/><file name="anim_hand_click_05" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\anim_hand_click_05.png" qualifiers="mdpi-v4" type="drawable"/><file name="anim_hand_click_06" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\anim_hand_click_06.png" qualifiers="mdpi-v4" type="drawable"/><file name="anim_hand_click_07" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\anim_hand_click_07.png" qualifiers="mdpi-v4" type="drawable"/><file name="cancel" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\cancel.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="cancel_p" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\cancel_p.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="file_icon_selected" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\file_icon_selected.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_arrow_down" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_arrow_down.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_arrow_left" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_arrow_left.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_arrow_right" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_arrow_right.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_arrow_right_round" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_arrow_right_round.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_arrow_up" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_arrow_up.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_dialog_audio_record_bg" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_dialog_audio_record_bg.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_dialog_recording" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_dialog_recording.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_route_microphone" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_route_microphone.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_volume_1" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_volume_1.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_volume_2" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_volume_2.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_volume_3" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_volume_3.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_volume_4" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_volume_4.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_volume_5" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_volume_5.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_volume_6" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_volume_6.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_volume_7" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\icon_volume_7.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_icon_roadcondition_off" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\main_icon_roadcondition_off.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_icon_roadcondition_on" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\main_icon_roadcondition_on.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_map_icon_satellite_off" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\main_map_icon_satellite_off.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_map_icon_satellite_on" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\main_map_icon_satellite_on.png" qualifiers="mdpi-v4" type="drawable"/><file name="ok" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ok.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ok_d" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ok_d.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ok_p" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ok_p.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="superman" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\superman.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_dialog_warning" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_dialog_warning.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_icon_dialog_warnning" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_icon_dialog_warnning.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_icon_navigate_list" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_icon_navigate_list.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_icon_navigate_list_voice" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_icon_navigate_list_voice.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_icon_offline_map_down" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_icon_offline_map_down.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_icon_route_plan_preference" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_icon_route_plan_preference.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_main_setting_dot" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_main_setting_dot.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_map_locate" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_map_locate.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_map_locate_dark" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_map_locate_dark.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_marker_select" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_marker_select.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_navi_download_offline" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_navi_download_offline.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_navi_history_clear" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_navi_history_clear.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_navi_history_delete" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_navi_history_delete.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_navi_key_delete" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_navi_key_delete.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_navi_star_edit" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_navi_star_edit.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_navi_star_home" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_navi_star_home.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_navi_star_work" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_navi_star_work.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_4s_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_4s_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_4s_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_4s_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_arrow_back" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_arrow_back.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_atm_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_atm_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_atm_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_atm_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_hotel_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_hotel_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_hotel_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_hotel_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_oil_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_oil_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_oil_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_oil_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_parking_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_parking_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_parking_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_parking_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_search_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_search_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_search_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_search_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_search_voice_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_search_voice_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_search_voice_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_search_voice_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_shop_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_shop_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_near_shop_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_near_shop_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_route_track_list_bg_dark" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_route_track_list_bg_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_route_track_list_bg_light" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_route_track_list_bg_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_route_track_shadow_vertical" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_route_track_shadow_vertical.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_setting_item_bg_normal" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_setting_item_bg_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_setting_item_bg_pressed" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_setting_item_bg_pressed.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_setting_top_bar_bg" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_setting_top_bar_bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_setting_voice_speak_hour" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_setting_voice_speak_hour.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_sync_1" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_sync_1.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_sync_2" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_sync_2.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_sync_3" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_sync_3.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_sync_4" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_sync_4.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_sync_5" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_sync_5.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_sync_6" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_sync_6.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_update_map_ol" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_update_map_ol.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_update_map_ol_import" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_update_map_ol_import.png" qualifiers="mdpi-v4" type="drawable"/><file name="ui_update_map_website" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\ui_update_map_website.png" qualifiers="mdpi-v4" type="drawable"/><file name="voice_progress_1" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\voice_progress_1.png" qualifiers="mdpi-v4" type="drawable"/><file name="voice_progress_2" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\voice_progress_2.png" qualifiers="mdpi-v4" type="drawable"/><file name="voice_progress_3" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\voice_progress_3.png" qualifiers="mdpi-v4" type="drawable"/><file name="voice_progress_4" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\voice_progress_4.png" qualifiers="mdpi-v4" type="drawable"/><file name="voice_progress_5" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\voice_progress_5.png" qualifiers="mdpi-v4" type="drawable"/><file name="voice_progress_6" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\voice_progress_6.png" qualifiers="mdpi-v4" type="drawable"/><file name="voice_progress_7" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\voice_progress_7.png" qualifiers="mdpi-v4" type="drawable"/><file name="voice_progress_8" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-mdpi\voice_progress_8.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="actionsheet" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\actionsheet.xml" qualifiers="" type="layout"/><file name="activity_main" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_offline_baidumap" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\activity_offline_baidumap.xml" qualifiers="" type="layout"/><file name="activity_offline_map_show" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\activity_offline_map_show.xml" qualifiers="" type="layout"/><file name="activity_set_route_plan_preference" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\activity_set_route_plan_preference.xml" qualifiers="" type="layout"/><file name="activity_set_star_place" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\activity_set_star_place.xml" qualifiers="" type="layout"/><file name="activity_update_map" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\activity_update_map.xml" qualifiers="" type="layout"/><file name="dialog_audio_record" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\dialog_audio_record.xml" qualifiers="" type="layout"/><file name="float_window" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\float_window.xml" qualifiers="" type="layout"/><file name="navi_history_list_item" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\navi_history_list_item.xml" qualifiers="" type="layout"/><file name="navi_result_list_item" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\navi_result_list_item.xml" qualifiers="" type="layout"/><file name="offline_baidumap_locallist_item" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\offline_baidumap_locallist_item.xml" qualifiers="" type="layout"/><file name="offline_map_all_city_list_item" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\offline_map_all_city_list_item.xml" qualifiers="" type="layout"/><file name="superman_alertdialog" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\layout\superman_alertdialog.xml" qualifiers="" type="layout"/><file path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\values\colors.xml" qualifiers=""><color name="setting_tab_off">#262626</color><color name="grey_dark">#ff454545</color><color name="bottom_color">#00000000</color><color name="top_color">#01589e</color><color name="holo_blue">#FF33E5B5</color><color name="holo_blue_light">#ff33b5e5</color><color name="setting_tab_text_on">#ffffff</color><color name="grey_dark_light">#55666666</color><color name="ui_back_arrow_bg_black_normal">#000000</color><color name="setting_tab_text_off">#878787</color><color name="deepcolor">#faaa5f</color><color name="transparent">#00000000</color><drawable name="layout_backgroud">#000000</drawable><color name="ui_back_arrow_bg_transparent_pressed">#ff6900</color><color name="lightransparent">#a0000000</color><color name="ui_back_arrow_bg_blue_pressed">#3366FF</color><color name="setting_tab_on">#ec6100</color><color name="ui_back_arrow_bg_transparent_normal">#88000000</color><color name="green">#00FF00</color><color name="blue">#0000ff</color><color name="shadowcolor">#333333</color><color name="remote_connect_text">#FFe78018</color><color name="ui_back_arrow_bg_blue_normal">#00a0e9</color><color name="orange">#ff9900</color><color name="accent_color_light">#7cb9ee</color><color name="gray">#A6A6A0</color><color name="white">#FFFFFF</color><color name="grey">#58616d</color><color name="dialog_text_hint">#ffb0b0b0</color><color name="darkgrey">#ff404040</color><color name="lightgrey">#ff888888</color><color name="background">#272727</color><color name="setting_tab_bg">#000000</color><color name="trans_white">#afffffff</color><color name="ui_back_arrow_bg_grey_pressed">#444448</color><color name="semitransparent">#80000000</color><color name="black">#000000</color><color name="orange_yellow">#9b9ba0</color><drawable name="line_background">#161823</drawable><color name="remote_disconnect_text">#FF901821</color><color name="accent_color">#1E88E5</color><color name="list_backgroud_color">#2fb3cb</color><color name="blue_dark">#3333FF</color><color name="content_color">#737373</color><color name="blue_light">#3399FF</color><color name="ui_chat_voice_orange">#ffa500</color><color name="ui_weather_line_bg">#cccccc</color><color name="red">#FF0000</color><color name="ui_back_arrow_bg_grey_normal">#29292d</color><color name="holo_orange_dark">#ffff8800</color><color name="color_window_background">#E5E5E5</color><color name="ui_back_arrow_bg_black_pressed">#ff6900</color><color name="toast_bg">#c01b1b1b</color><color name="yellow">#FFF000</color><drawable name="semi_black">#80000000</drawable><color name="holo_blue_dark">#ff0099cc</color><color name="toast_text">#f7dcaf</color><color name="title_color">#0f8ec5</color><color name="thumbColor">#66aaaaaa</color><color name="toasterro">#9fd524</color><color name="half_transparent">#3f000000</color><color name="naming">#ABABAB</color><color name="holo_blue_light2">#aa33b5e5</color><color name="grey_white">#fff0f0f0</color><color name="navpage">#FFE1E8EB</color><color name="divider_color">#6fffffff</color><color name="setting_item_title_color">#b6b6b6</color></file><file path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="setting_item_height">85dp</dimen><dimen name="setting_route_plan_pref_text_size">25sp</dimen><dimen name="ui_near_item_height">185dp</dimen><dimen name="ui_near_item_text_size">30sp</dimen><dimen name="ui_near_item_width">278dp</dimen></file><file path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\values\strings.xml" qualifiers=""><string name="text_userword_empty">词表下载失败或内容为空</string><string name="invalid_network">未连接网络</string><string name="stop_record_power_unconnect">电源断开，停止录像</string><string name="error">Error</string><string name="del_title">删除提示</string><string-array name="ise_language_entries">
+        <item>英语</item>
+        <item>汉语</item>
+    </string-array><string name="update">更新</string><string name="near_with_blank">周 边</string><string name="star_home">家</string><string-array name="engine_values">
+        <item>local</item>
+        <item>cloud</item>
+    </string-array><string name="stop">停止</string><string-array name="punc_entries">
+        <item>有标点</item>
+        <item>无标点</item>
+    </string-array><string name="start_server">启动服务</string><string-array name="engine_entries">
+        <item>本地合成</item>
+        <item>在线合成</item>
+    </string-array><string name="rename">重命名</string><string name="urgent_video">紧急视频</string><string name="create_folder">新建文件夹</string><string name="title_near_search">周边搜索</string><string name="superman_title">来 吧 !</string><string name="cur_interval">更新间隔时间：%1$s秒</string><string name="open_drawer">打开抽屉</string><string name="normal_video">正常视频</string><string name="start_download">开始下载离线地图：</string><string name="title_message">短信</string><string name="shortcut_created">快捷方式已创建</string><string name="app_icon">App icon</string><string name="delete_d_items_">删除 %d 个条目?</string><string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array><string name="hint_video_time_5">视频分段五分钟</string><string name="storage_warning">外部存储不可用.</string><string name="del_fail">删除失败</string><string name="del_msg_nodel">是否要删除该碰撞视频吗？\n提示：删除后该视频不可恢复！</string><string name="folder_created_successfully">成功创建文件夹</string><string-array name="voicer_cloud_values">
+        <item>xiaoyan</item>
+        <item>xiaoyu</item>
+        <item>catherine</item>
+        <item>henry</item>
+        <item>vimary</item>
+        <item>vixy</item>
+        <item>xiaoqi</item>
+        <item>vixf</item>
+        <item>xiaomei</item>
+        <item>xiaolin</item>
+        <item>xiaorong</item>
+        <item>xiaoqian</item>
+        <item>xiaokun</item>
+        <item>xiaoqiang</item>
+        <item>vixying</item>
+        <item>xiaoxin</item>
+        <item>nannan</item>
+        <item>vils</item>
+    </string-array><string name="_2g">普通网络（GPRS）</string><string name="pref_title_iat_show">显示听写界面</string><string name="tab4_text">系统</string><string name="pref_key_iat_show">iat_show</string><string name="set_location_company">请设置公司地址</string><string-array name="university_of_province_name">
+
+        
+        <item>清华大学</item>
+        <item>中国人民大学</item>
+        <item>中央财经大学</item>
+        <item>中国传媒大学</item>
+        <item>中国农业大学</item>
+        <item>首都师范大学</item>
+        <item>华北电力大学</item>
+        <item>中国政法大学</item>
+        <item>对外经济贸易大学</item>
+        <item>首都经济贸易大学</item>
+        <item>北方工业大学</item>
+        <item>中央民族大学</item>
+        <item>首都医科大学</item>
+        <item>中国人民公安大学</item>
+        <item>中国科学院大学</item>
+        <item>外交学院</item>
+        <item>国际关系学院</item>
+        <item>中央音乐学院</item>
+
+        
+        <item>南开大学</item>
+        <item>河北工业大学</item>
+        <item>中国民航大学</item>
+
+        
+        <item>复旦大学</item>
+        <item>同济大学</item>
+        <item>华东师范大学</item>
+        <item>华东理工大学</item>
+        <item>东华大学</item>
+
+        
+        <item>西南大学</item>
+        <item>西南政法大学</item>
+        <item>四川美术学院</item>
+
+        
+        <item>河北大学</item>
+        <item>燕山大学</item>
+        <item>河北联合大学</item>
+        <item>河北师范大学</item>
+        <item>河北科技大学</item>
+        <item>河北工程大学</item>
+        <item>河北农业大学</item>
+        <item>河北经贸大学</item>
+        <item>华北科技学院</item>
+
+        
+        <item>河南大学</item>
+        <item>河南理工大学</item>
+        <item>河南科技大学</item>
+        <item>华北水利水电大学</item>
+        <item>河南师范大学</item>
+
+        
+        <item>云南大学</item>
+        <item>云南师范大学</item>
+        <item>云南财经大学</item>
+        <item>西南林业大学</item>
+        <item>云南民族大学</item>
+        <item>云南农业大学</item>
+
+        
+        <item>辽宁大学</item>
+        <item>东北大学</item>
+        <item>东北财经大学</item>
+        <item>中国医科大学</item>
+
+        
+        <item>黑龙江大学</item>
+        <item>东北林业大学</item>
+        <item>东北石油大学</item>
+        <item>东北农业大学</item>
+
+        
+        <item>湖南大学</item>
+        <item>中南大学</item>
+        <item>湖南农业大学</item>
+        <item>南华大学</item>
+        <item>湖南工业大学</item>
+        <item>湖南师范大学</item>
+        <item>湖南科技大学</item>
+
+        
+        <item>安徽大学</item>
+        <item>安徽工程大学</item>
+        <item>安徽财经大学</item>
+        <item>安徽师范大学</item>
+        <item>安徽建筑大学</item>
+        <item>安徽农业大学</item>
+        <item>淮南师范学院</item>
+        <item>中国科学技术大学</item>
+
+        
+        <item>山东大学</item>
+        <item>中国海洋大学</item>
+        <item>山东财经大学</item>
+        <item>山东科技大学</item>
+
+        
+        <item>新疆大学</item>
+        <item>新疆财经大学</item>
+        <item>新疆师范大学</item>
+        <item>新疆农业大学</item>
+        <item>新疆医科大学</item>
+        <item>新疆艺术学院</item>
+
+        
+        <item>江苏大学</item>
+        <item>东南大学</item>
+        <item>江南大学</item>
+        <item>河海大学</item>
+
+        
+        <item>浙江大学</item>
+        <item>浙江工业大学</item>
+        <item>浙江理工大学</item>
+        <item>浙江海洋学院</item>
+        <item>浙江林学院</item>
+        <item>浙江中医药大学</item>
+        <item>浙江师范大学</item>
+        <item>中国美术学院</item>
+        <item>中国计量学院</item>
+        <item>浙江万里学院</item>
+        <item>浙江科技学院</item>
+
+        
+        <item>东华理工大学</item>
+        <item>江西财经大学</item>
+        <item>江西理工大学</item>
+        <item>江西师范大学</item>
+        <item>华东交通大学</item>
+        <item>江西科技学院</item>
+
+        
+        <item>湖北大学</item>
+        <item>华中科技大学</item>
+        <item>中南财经政法大学</item>
+        <item>华中师范大学</item>
+        <item>三峡大学</item>
+        <item>中南民族大学</item>
+        <item>长江大学</item>
+        <item>中国地质大学</item>
+
+        
+        <item>广西大学</item>
+        <item>广西师范大学</item>
+        <item>广西医科大学</item>
+        <item>广西民族大学</item>
+        <item>广西中医药大学</item>
+        <item>广西财经学院</item>
+
+        
+        <item>甘肃农业大学</item>
+        <item>西北民族大学</item>
+        <item>西北师范大学</item>
+        <item>甘肃政法学院</item>
+
+        
+        <item>山西大学</item>
+        <item>中北大学</item>
+        <item>山西财经大学</item>
+        <item>山西医科大学</item>
+        <item>山西师范大学</item>
+        <item>山西农业大学</item>
+
+        
+        <item>内蒙古大学</item>
+        <item>内蒙古师范大学</item>
+        <item>内蒙古工业大学</item>
+        <item>内蒙古科技大学</item>
+        <item>内蒙古财经大学</item>
+        <item>内蒙古民族大学</item>
+        <item>内蒙古医科大学</item>
+        <item>内蒙古农业大学</item>
+
+        
+        <item>陕西师范大学</item>
+        <item>西北工业大学</item>
+        <item>长安大学</item>
+
+        
+        <item>吉林大学</item>
+        <item>东北师范大学</item>
+        <item>吉林农业大学</item>
+
+        
+        <item>福建师范大学</item>
+        <item>集美大学</item>
+        <item>华侨大学</item>
+        <item>福建师范大学</item>
+        <item>福建农林大学</item>
+        <item>福建工程学院</item>
+
+        
+        <item>贵州大学</item>
+        <item>贵州师范大学</item>
+        <item>贵州财经大学</item>
+        <item>贵州民族大学</item>
+
+        
+        <item>中山大学</item>
+        <item>华南理工大学</item>
+        <item>暨南大学</item>
+        <item>华南农业大学</item>
+        <item>华南师范大学</item>
+        <item>广东工业大学</item>
+        <item>广东外语外贸大学</item>
+
+        
+        <item>青海大学</item>
+        <item>青海民族大学</item>
+        <item>青海师范大学</item>
+
+        
+        <item>西藏大学</item>
+
+        
+        <item>四川大学</item>
+        <item>西华大学</item>
+        <item>西南财经大学</item>
+        <item>电子科技大学</item>
+        <item>西南科技大学</item>
+        <item>西南交通大学</item>
+        <item>四川师范大学</item>
+        <item>西南石油大学</item>
+
+        
+        <item>宁夏大学</item>
+        <item>北方民族大学</item>
+        <item>宁夏医科大学</item>
+
+        
+        <item>海南大学</item>
+        <item>海南师范大学</item>
+        <item>海南医学院</item>
+        <item>海南外国语职业学院</item>
+    </string-array><string name="hint_video_time_3">视频分段三分钟</string><string name="poi_no_result">未找到结果</string><string-array name="key_not_extract">
+        <item>站</item>
+        <item>北站</item>
+        <item>南站</item>
+        <item>东站</item>
+        <item>西站</item>
+        <item>政府</item>
+        <item>大学</item>
+        <item>社保局</item>
+        <item>劳动局</item>
+    </string-array><string name="pictures">图片</string><string name="loading_">加载中…</string><string formatted="false" name="tts_toast_format">缓冲进度为%d%%，播放进度为%d%%</string><string name="del_success">删除成功</string><string name="text_upload_userwords">上传用户词表</string><string name="app_is_not_found">未找到应用</string><string name="set_location_home">请设置家庭地址</string><string name="input_navigation_destination">输入导航目的地</string><string name="stop_record_sleep_on">进入休眠，停止录像</string><string name="navigation_with_blank">导 航</string><string name="app_name">导航</string><string name="text_en_word">"[word]\napple\nbanana\norange"</string><string name="text_cn_syllable">"知，痴，是"</string><string name="dcim">DCIM</string><string name="star_company">公司</string><string name="text_tts_source">text_tts_source</string><string name="import_success">成功导入 %d 个离线包，可以在下载管理查看</string><string-array name="array_route_plan_preference">
+        <item>推荐</item>
+        <item>高速优先</item>
+        <item>少走高速</item>
+        <item>少收费</item>
+        <item>躲避拥堵</item>
+    </string-array><string name="near_atm">ATM</string><string name="text_isr_abnf_hint">\t上传内容为：\n\t#ABNF 1.0 gb2312;\n\tlanguage zh-CN;\n\tmode voice;\n\troot $main;\n\t$main = $place1 到$place2 ;\n\t$place1 = 北京 | 武汉 | 南京 | 天津 | 东京;\n\t$place2 = 上海 | 合肥;</string><string name="poi_in_city">在</string><string name="hint_video_size_1080">分辨率一零八零P</string><string-array name="dwa_entries">
+        <item>开启</item>
+        <item>关闭</item>
+    </string-array><string name="wifi_state">WiFi状态</string><string name="destination_city">目的地城市</string><string name="pasting_files_">正在粘贴文件…</string><string name="title_chat">语音助手</string><string-array name="result_level_entries">
+        <item>plain</item>
+        <item>complete</item>
+    </string-array><string name="sd_remove_badly">SD卡异常或不存在，停止录像</string><string name="file_renamed">文件重命名成功</string><string name="superman_content">让我把你的应用变的能听会说吧！</string><string name="phone_not_support">本机不支持通讯功能</string><string name="music_play_now">正在播放</string><string name="map_list">地图列表</string><string name="poi_search">查找</string><string name="hint">提示</string><string name="rename_folder">重命名文件夹</string><string name="pref_title_iat_dwa">结果动态修正</string><string name="stop_server">停止服务</string><string name="title_music_online">在线音乐</string><string name="example_explain">example_explain</string><string name="mms_send_success">短信发送成功</string><string name="share_route">分享轨迹</string><string name="location_here">当前位置</string><string name="choose_file_ctrl">请选择对视频文件的操作</string><string-array name="ise_language_values">
+        <item>en_us</item>
+        <item>zh_cn</item>
+    </string-array><string name="weather">天气</string><string name="rename_file">重命名文件</string><string name="select_all">全选</string><string name="text_en_sentence">"The quick brown fox jumps over the lazy dog."</string><string name="photo_save">照片已保存</string><string name="music_play_recent">最近播放</string><string name="title_file_manager">文件管理</string><string name="mms_content_empty">短信内容为空</string><string name="download_manager">下载管理</string><string-array name="language_entries">
+        <item>普通话</item>
+        <item>粤语</item>
+        <item>河南话</item>
+        <item>英语</item>
+    </string-array><string name="keep_save_video">存档视频</string><string name="video_unlock">视频解锁</string><string name="mime_type_s">文件类型: %s</string><string name="folder">%d 条目</string><string name="file_info">文件信息</string><string name="not_locate">未定位</string><string-array name="punc_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array><string name="_3g_above">高速网络（3G、4G）</string><string name="app_is_openning">正在打开</string><string name="action_settings">Settings</string><string name="star_with_blank">收 藏</string><string name="picture">图片</string><string name="downloads">下载</string><string name="no_match_city">未找到相关城市</string><string name="title_phone">电话</string><string name="linear_diatance">直线距离</string><string name="meter">米</string><string name="tab2_text">语音</string><string name="no_wifi">无WiFi网络</string><string name="has_update">可更新</string><string name="offline_download_delete">删除离线地图</string><string name="wifi">Wi-Fi</string><string-array name="city_not_extract">
+        <item>路</item>
+        <item>银行</item>
+    </string-array><string name="offline_download_pause">暂停下载离线地图</string><string-array name="voicer_cloud_entries">
+        <item>小燕</item>
+        <item>小宇</item>
+        <item>凯瑟琳</item>
+        <item>亨利</item>
+        <item>玛丽</item>
+        <item>小研</item>
+        <item>小琪</item>
+        <item>小峰</item>
+        <item>小梅</item>
+        <item>小莉</item>
+        <item>小蓉</item>
+        <item>小芸</item>
+        <item>小坤</item>
+        <item>小强 </item>
+        <item>小莹</item>
+        <item>小新</item>
+        <item>楠楠</item>
+        <item>老孙</item>
+    </string-array><string name="near_parking">停车场</string><string name="_d_objects">%d 条目</string><string name="unknown">未知</string><string name="text_cn_word">"磁铁，率领，脆弱，动手，古筝"</string><string name="text_understand_hint">\t您可以说：\t导航到深圳北站 \t打电话给老王 \t发短信给小张晚上一起吃饭 \t启动百度地图 \t广州天气怎么样 \t聊聊天吧</string><string name="objects_copied_to_clipboard">已复制到剪贴板</string><string name="near_4s">4S</string><string name="location_start">起始位置</string><string name="title_setting">设置</string><string name="add_to_homescreen_multiple">创建快捷方式</string><string name="hint_navi_init_fail">导航初始化失败，请保持网络顺畅然后重试</string><string name="tab1_text">录像</string><string name="phone_call_to">正在打电话给</string><string-array name="city_array_3">
+        <item>北京市</item>
+        <item>上海市</item>
+        <item>天津市</item>
+        <item>重庆市</item>
+        <item>绥化市</item>
+        <item>黑河市</item>
+        <item>伊春市</item>
+        <item>大庆市</item>
+        <item>鸡西市</item>
+        <item>鹤岗市</item>
+        <item>长春市</item>
+        <item>吉林市</item>
+        <item>延吉市</item>
+        <item>四平市</item>
+        <item>通化市</item>
+        <item>白城市</item>
+        <item>辽源市</item>
+        <item>松原市</item>
+        <item>白山市</item>
+        <item>沈阳市</item>
+        <item>大连市</item>
+        <item>鞍山市</item>
+        <item>抚顺市</item>
+        <item>本溪市</item>
+        <item>丹东市</item>
+        <item>锦州市</item>
+        <item>营口市</item>
+        <item>阜新市</item>
+        <item>辽阳市</item>
+        <item>铁岭市</item>
+        <item>朝阳市</item>
+        <item>盘锦市</item>
+        <item>包头市</item>
+        <item>乌海市</item>
+        <item>集宁市</item>
+        <item>通辽市</item>
+        <item>赤峰市</item>
+        <item>临河市</item>
+        <item>保定市</item>
+        <item>承德市</item>
+        <item>唐山市</item>
+        <item>廊坊市</item>
+        <item>沧州市</item>
+        <item>衡水市</item>
+        <item>邢台市</item>
+        <item>邯郸市</item>
+        <item>太原市</item>
+        <item>大同市</item>
+        <item>阳泉市</item>
+        <item>晋中市</item>
+        <item>长治市</item>
+        <item>晋城市</item>
+        <item>临汾市</item>
+        <item>运城市</item>
+        <item>朔州市</item>
+        <item>忻州市</item>
+        <item>离石市</item>
+        <item>西安市</item>
+        <item>长安市</item>
+        <item>咸阳市</item>
+        <item>三原市</item>
+        <item>延安市</item>
+        <item>榆林市</item>
+        <item>渭南市</item>
+        <item>商洛市</item>
+        <item>安康市</item>
+        <item>汉中市</item>
+        <item>宝鸡市</item>
+        <item>铜川市</item>
+        <item>济南市</item>
+        <item>青岛市</item>
+        <item>淄博市</item>
+        <item>德州市</item>
+        <item>烟台市</item>
+        <item>潍坊市</item>
+        <item>济宁市</item>
+        <item>泰安市</item>
+        <item>临沂市</item>
+        <item>菏泽市</item>
+        <item>滨州市</item>
+        <item>东营市</item>
+        <item>威海市</item>
+        <item>枣庄市</item>
+        <item>日照市</item>
+        <item>莱芜市</item>
+        <item>聊城市</item>
+        <item>昌吉市</item>
+        <item>喀什市</item>
+        <item>伊宁市</item>
+        <item>塔城市</item>
+        <item>哈密市</item>
+        <item>和田市</item>
+        <item>博乐市</item>
+        <item>拉萨市</item>
+        <item>山南市</item>
+        <item>林芝市</item>
+        <item>昌都市</item>
+        <item>那曲市</item>
+        <item>阿里市</item>
+        <item>西宁市</item>
+        <item>海东市</item>
+        <item>黄南市</item>
+        <item>海南市</item>
+        <item>果洛市</item>
+        <item>玉树市</item>
+        <item>海西市</item>
+        <item>海北市</item>
+        <item>兰州市</item>
+        <item>定西市</item>
+        <item>平凉市</item>
+        <item>庆阳市</item>
+        <item>武威市</item>
+        <item>金昌市</item>
+        <item>张掖市</item>
+        <item>酒泉市</item>
+        <item>天水市</item>
+        <item>武都市</item>
+        <item>临夏市</item>
+        <item>合作市</item>
+        <item>白银市</item>
+        <item>银川市</item>
+        <item>吴忠市</item>
+        <item>固原市</item>
+        <item>中卫市</item>
+        <item>郑州市</item>
+        <item>安阳市</item>
+        <item>新乡市</item>
+        <item>许昌市</item>
+        <item>信阳市</item>
+        <item>南阳市</item>
+        <item>开封市</item>
+        <item>洛阳市</item>
+        <item>商丘市</item>
+        <item>焦作市</item>
+        <item>鹤壁市</item>
+        <item>濮阳市</item>
+        <item>周口市</item>
+        <item>漯河市</item>
+        <item>济源市</item>
+        <item>南京市</item>
+        <item>无锡市</item>
+        <item>镇江市</item>
+        <item>苏州市</item>
+        <item>南通市</item>
+        <item>扬州市</item>
+        <item>盐城市</item>
+        <item>徐州市</item>
+        <item>淮安市</item>
+        <item>常州市</item>
+        <item>泰州市</item>
+        <item>宿迁市</item>
+        <item>武汉市</item>
+        <item>襄樊市</item>
+        <item>鄂州市</item>
+        <item>孝感市</item>
+        <item>黄冈市</item>
+        <item>黄石市</item>
+        <item>咸宁市</item>
+        <item>荆州市</item>
+        <item>宜昌市</item>
+        <item>恩施市</item>
+        <item>十堰市</item>
+        <item>随州市</item>
+        <item>荆门市</item>
+        <item>天门市</item>
+        <item>仙桃市</item>
+        <item>潜江市</item>
+        <item>杭州市</item>
+        <item>湖州市</item>
+        <item>嘉兴市</item>
+        <item>宁波市</item>
+        <item>绍兴市</item>
+        <item>台州市</item>
+        <item>温州市</item>
+        <item>丽水市</item>
+        <item>金华市</item>
+        <item>衢州市</item>
+        <item>舟山市</item>
+        <item>合肥市</item>
+        <item>蚌埠市</item>
+        <item>芜湖市</item>
+        <item>淮南市</item>
+        <item>安庆市</item>
+        <item>宿州市</item>
+        <item>阜阳市</item>
+        <item>亳州市</item>
+        <item>滁州市</item>
+        <item>淮北市</item>
+        <item>铜陵市</item>
+        <item>宣城市</item>
+        <item>六安市</item>
+        <item>巢湖市</item>
+        <item>池州市</item>
+        <item>福州市</item>
+        <item>厦门市</item>
+        <item>宁德市</item>
+        <item>莆田市</item>
+        <item>泉州市</item>
+        <item>漳州市</item>
+        <item>龙岩市</item>
+        <item>三明市</item>
+        <item>南平市</item>
+        <item>南昌市</item>
+        <item>九江市</item>
+        <item>上饶市</item>
+        <item>抚州市</item>
+        <item>宜春市</item>
+        <item>吉安市</item>
+        <item>赣州市</item>
+        <item>萍乡市</item>
+        <item>新余市</item>
+        <item>鹰潭市</item>
+        <item>长沙市</item>
+        <item>湘潭市</item>
+        <item>株洲市</item>
+        <item>衡阳市</item>
+        <item>郴州市</item>
+        <item>常德市</item>
+        <item>娄底市</item>
+        <item>邵阳市</item>
+        <item>岳阳市</item>
+        <item>怀化市</item>
+        <item>黔阳市</item>
+        <item>永州市</item>
+        <item>吉首市</item>
+        <item>贵阳市</item>
+        <item>遵义市</item>
+        <item>安顺市</item>
+        <item>都匀市</item>
+        <item>凯里市</item>
+        <item>铜仁市</item>
+        <item>毕节市</item>
+        <item>黔西市</item>
+        <item>成都市</item>
+        <item>自贡市</item>
+        <item>绵阳市</item>
+        <item>南充市</item>
+        <item>达州市</item>
+        <item>遂宁市</item>
+        <item>广安市</item>
+        <item>巴中市</item>
+        <item>泸州市</item>
+        <item>宜宾市</item>
+        <item>内江市</item>
+        <item>资阳市</item>
+        <item>乐山市</item>
+        <item>眉山市</item>
+        <item>凉山市</item>
+        <item>雅安市</item>
+        <item>甘孜市</item>
+        <item>阿坝市</item>
+        <item>德阳市</item>
+        <item>广元市</item>
+        <item>广州市</item>
+        <item>韶关市</item>
+        <item>惠州市</item>
+        <item>梅州市</item>
+        <item>汕头市</item>
+        <item>深圳市</item>
+        <item>珠海市</item>
+        <item>佛山市</item>
+        <item>顺德市</item>
+        <item>肇庆市</item>
+        <item>湛江市</item>
+        <item>江门市</item>
+        <item>河源市</item>
+        <item>清远市</item>
+        <item>云浮市</item>
+        <item>潮州市</item>
+        <item>东莞市</item>
+        <item>中山市</item>
+        <item>阳江市</item>
+        <item>揭阳市</item>
+        <item>茂名市</item>
+        <item>汕尾市</item>
+        <item>昆明市</item>
+        <item>大理市</item>
+        <item>红河市</item>
+        <item>曲靖市</item>
+        <item>保山市</item>
+        <item>文山市</item>
+        <item>玉溪市</item>
+        <item>楚雄市</item>
+        <item>普洱市</item>
+        <item>昭通市</item>
+        <item>临沧市</item>
+        <item>怒江市</item>
+        <item>丽江市</item>
+        <item>德宏市</item>
+        <item>景洪市</item>
+        <item>南宁市</item>
+        <item>崇左市</item>
+        <item>柳州市</item>
+        <item>来宾市</item>
+        <item>桂林市</item>
+        <item>梧州市</item>
+        <item>贺州市</item>
+        <item>贵港市</item>
+        <item>玉林市</item>
+        <item>百色市</item>
+        <item>钦州市</item>
+        <item>河池市</item>
+        <item>北海市</item>
+        <item>海口市</item>
+        <item>三亚市</item>
+        <item>东方市</item>
+        <item>临高市</item>
+        <item>澄迈市</item>
+        <item>儋州市</item>
+        <item>昌江市</item>
+        <item>白沙市</item>
+        <item>琼中市</item>
+        <item>定安市</item>
+        <item>屯昌市</item>
+        <item>琼海市</item>
+        <item>文昌市</item>
+        <item>清兰市</item>
+        <item>保亭市</item>
+        <item>万宁市</item>
+        <item>陵水市</item>
+        <item>西沙市</item>
+        <item>乐东市</item>
+        <item>通什市</item>
+        <item>香港市</item>
+        <item>澳门市</item>
+        <item>台北县</item>
+        <item>台北市</item>
+        <item>高雄市</item>
+        <item>东港市</item>
+        <item>大武市</item>
+        <item>恒春市</item>
+        <item>兰屿市</item>
+        <item>台南市</item>
+        <item>台中市</item>
+        <item>桃园市</item>
+        <item>新竹县</item>
+        <item>新竹市</item>
+        <item>公馆市</item>
+        <item>宜兰市</item>
+        <item>马公市</item>
+        <item>嘉义市</item>
+        <item>玉山市</item>
+        <item>新港市</item>
+        
+        <item>哈尔滨</item>
+        <item>牡丹江</item>
+        <item>佳木斯</item>
+        <item>七台河</item>
+        <item>双鸭山</item>
+        <item>葫芦岛</item>
+        <item>海拉尔</item>
+        <item>满洲里</item>
+        <item>石家庄</item>
+        <item>张家口</item>
+        <item>石河子</item>
+        <item>秦皇岛</item>
+        <item>北戴河</item>
+        <item>吐鲁番</item>
+        <item>库尔勒</item>
+        <item>阿拉尔</item>
+        <item>阿克苏</item>
+        <item>阿勒泰</item>
+        <item>阿图什</item>
+        <item>日喀则</item>
+        <item>石嘴山</item>
+        <item>平顶山</item>
+        <item>驻马店</item>
+        <item>三门峡</item>
+        <item>马鞍山</item>
+        <item>神农架</item>
+        <item>连云港</item>
+        <item>黄山站</item>
+        <item>景德镇</item>
+        <item>东吉屿</item>
+        <item>新竹县</item>
+        <item>六盘水</item>
+        <item>赫山区</item>
+        <item>张家界</item>
+        <item>攀枝花</item>
+        <item>防城港</item>
+        <item>珊瑚岛</item>
+        <item>永署礁</item>
+        <item>南沙岛</item>
+        <item>五指山</item>
+        <item>台北县</item>
+        <item>阿里山</item>
+    </string-array><string-array name="city_array_2">
+        <item>北京</item>
+        <item>上海</item>
+        <item>天津</item>
+        <item>重庆</item>
+        <item>绥化</item>
+        <item>黑河</item>
+        <item>伊春</item>
+        <item>大庆</item>
+        <item>鸡西</item>
+        <item>鹤岗</item>
+        <item>长春</item>
+        <item>吉林</item>
+        <item>延吉</item>
+        <item>四平</item>
+        <item>通化</item>
+        <item>白城</item>
+        <item>辽源</item>
+        <item>松原</item>
+        <item>白山</item>
+        <item>沈阳</item>
+        <item>大连</item>
+        <item>鞍山</item>
+        <item>抚顺</item>
+        <item>本溪</item>
+        <item>丹东</item>
+        <item>锦州</item>
+        <item>营口</item>
+        <item>阜新</item>
+        <item>辽阳</item>
+        <item>铁岭</item>
+        <item>朝阳</item>
+        <item>盘锦</item>
+        <item>包头</item>
+        <item>乌海</item>
+        <item>集宁</item>
+        <item>通辽</item>
+        <item>赤峰</item>
+        <item>临河</item>
+        <item>保定</item>
+        <item>承德</item>
+        <item>唐山</item>
+        <item>廊坊</item>
+        <item>沧州</item>
+        <item>衡水</item>
+        <item>邢台</item>
+        <item>邯郸</item>
+        <item>太原</item>
+        <item>大同</item>
+        <item>阳泉</item>
+        <item>晋中</item>
+        <item>长治</item>
+        <item>晋城</item>
+        <item>临汾</item>
+        <item>运城</item>
+        <item>朔州</item>
+        <item>忻州</item>
+        <item>离石</item>
+        <item>西安</item>
+        <item>长安</item>
+        <item>咸阳</item>
+        <item>三原</item>
+        <item>延安</item>
+        <item>榆林</item>
+        <item>渭南</item>
+        <item>商洛</item>
+        <item>安康</item>
+        <item>汉中</item>
+        <item>宝鸡</item>
+        <item>铜川</item>
+        <item>济南</item>
+        <item>青岛</item>
+        <item>淄博</item>
+        <item>德州</item>
+        <item>烟台</item>
+        <item>潍坊</item>
+        <item>济宁</item>
+        <item>泰安</item>
+        <item>临沂</item>
+        <item>菏泽</item>
+        <item>滨州</item>
+        <item>东营</item>
+        <item>威海</item>
+        <item>枣庄</item>
+        <item>日照</item>
+        <item>莱芜</item>
+        <item>聊城</item>
+        <item>昌吉</item>
+        <item>喀什</item>
+        <item>伊宁</item>
+        <item>塔城</item>
+        <item>哈密</item>
+        <item>和田</item>
+        <item>博乐</item>
+        <item>拉萨</item>
+        <item>山南</item>
+        <item>林芝</item>
+        <item>昌都</item>
+        <item>那曲</item>
+        <item>阿里</item>
+        <item>西宁</item>
+        <item>海东</item>
+        <item>黄南</item>
+        <item>海南</item>
+        <item>果洛</item>
+        <item>玉树</item>
+        <item>海西</item>
+        <item>海北</item>
+        <item>兰州</item>
+        <item>定西</item>
+        <item>平凉</item>
+        <item>庆阳</item>
+        <item>武威</item>
+        <item>金昌</item>
+        <item>张掖</item>
+        <item>酒泉</item>
+        <item>天水</item>
+        <item>武都</item>
+        <item>临夏</item>
+        <item>合作</item>
+        <item>白银</item>
+        <item>银川</item>
+        <item>吴忠</item>
+        <item>固原</item>
+        <item>中卫</item>
+        <item>郑州</item>
+        <item>安阳</item>
+        <item>新乡</item>
+        <item>许昌</item>
+        <item>信阳</item>
+        <item>南阳</item>
+        <item>开封</item>
+        <item>洛阳</item>
+        <item>商丘</item>
+        <item>焦作</item>
+        <item>鹤壁</item>
+        <item>濮阳</item>
+        <item>周口</item>
+        <item>漯河</item>
+        <item>济源</item>
+        <item>南京</item>
+        <item>无锡</item>
+        <item>镇江</item>
+        <item>苏州</item>
+        <item>南通</item>
+        <item>扬州</item>
+        <item>盐城</item>
+        <item>徐州</item>
+        <item>淮安</item>
+        <item>常州</item>
+        <item>泰州</item>
+        <item>宿迁</item>
+        <item>武汉</item>
+        <item>襄樊</item>
+        <item>鄂州</item>
+        <item>孝感</item>
+        <item>黄冈</item>
+        <item>黄石</item>
+        <item>咸宁</item>
+        <item>荆州</item>
+        <item>宜昌</item>
+        <item>恩施</item>
+        <item>十堰</item>
+        <item>随州</item>
+        <item>荆门</item>
+        <item>天门</item>
+        <item>仙桃</item>
+        <item>潜江</item>
+        <item>杭州</item>
+        <item>湖州</item>
+        <item>嘉兴</item>
+        <item>宁波</item>
+        <item>绍兴</item>
+        <item>台州</item>
+        <item>温州</item>
+        <item>丽水</item>
+        <item>金华</item>
+        <item>衢州</item>
+        <item>舟山</item>
+        <item>合肥</item>
+        <item>蚌埠</item>
+        <item>芜湖</item>
+        <item>淮南</item>
+        <item>安庆</item>
+        <item>宿州</item>
+        <item>阜阳</item>
+        <item>亳州</item>
+        <item>滁州</item>
+        <item>淮北</item>
+        <item>铜陵</item>
+        <item>宣城</item>
+        <item>六安</item>
+        <item>巢湖</item>
+        <item>池州</item>
+        <item>福州</item>
+        <item>厦门</item>
+        <item>宁德</item>
+        <item>莆田</item>
+        <item>泉州</item>
+        <item>漳州</item>
+        <item>龙岩</item>
+        <item>三明</item>
+        <item>南平</item>
+        <item>南昌</item>
+        <item>九江</item>
+        <item>上饶</item>
+        <item>抚州</item>
+        <item>宜春</item>
+        <item>吉安</item>
+        <item>赣州</item>
+        <item>萍乡</item>
+        <item>新余</item>
+        <item>鹰潭</item>
+        <item>长沙</item>
+        <item>湘潭</item>
+        <item>株洲</item>
+        <item>衡阳</item>
+        <item>郴州</item>
+        <item>常德</item>
+        <item>娄底</item>
+        <item>邵阳</item>
+        <item>岳阳</item>
+        <item>怀化</item>
+        <item>黔阳</item>
+        <item>永州</item>
+        <item>吉首</item>
+        <item>贵阳</item>
+        <item>遵义</item>
+        <item>安顺</item>
+        <item>都匀</item>
+        <item>凯里</item>
+        <item>铜仁</item>
+        <item>毕节</item>
+        <item>黔西</item>
+        <item>成都</item>
+        <item>自贡</item>
+        <item>绵阳</item>
+        <item>南充</item>
+        <item>达州</item>
+        <item>遂宁</item>
+        <item>广安</item>
+        <item>巴中</item>
+        <item>泸州</item>
+        <item>宜宾</item>
+        <item>内江</item>
+        <item>资阳</item>
+        <item>乐山</item>
+        <item>眉山</item>
+        <item>凉山</item>
+        <item>雅安</item>
+        <item>甘孜</item>
+        <item>阿坝</item>
+        <item>德阳</item>
+        <item>广元</item>
+        <item>广州</item>
+        <item>韶关</item>
+        <item>惠州</item>
+        <item>梅州</item>
+        <item>汕头</item>
+        <item>深圳</item>
+        <item>珠海</item>
+        <item>佛山</item>
+        <item>顺德</item>
+        <item>肇庆</item>
+        <item>湛江</item>
+        <item>江门</item>
+        <item>河源</item>
+        <item>清远</item>
+        <item>云浮</item>
+        <item>潮州</item>
+        <item>东莞</item>
+        <item>中山</item>
+        <item>阳江</item>
+        <item>揭阳</item>
+        <item>茂名</item>
+        <item>汕尾</item>
+        <item>昆明</item>
+        <item>大理</item>
+        <item>红河</item>
+        <item>曲靖</item>
+        <item>保山</item>
+        <item>文山</item>
+        <item>玉溪</item>
+        <item>楚雄</item>
+        <item>普洱</item>
+        <item>昭通</item>
+        <item>临沧</item>
+        <item>怒江</item>
+        <item>丽江</item>
+        <item>德宏</item>
+        <item>景洪</item>
+        <item>南宁</item>
+        <item>崇左</item>
+        <item>柳州</item>
+        <item>来宾</item>
+        <item>桂林</item>
+        <item>梧州</item>
+        <item>贺州</item>
+        <item>贵港</item>
+        <item>玉林</item>
+        <item>百色</item>
+        <item>钦州</item>
+        <item>河池</item>
+        <item>北海</item>
+        <item>海口</item>
+        <item>三亚</item>
+        <item>东方</item>
+        <item>临高</item>
+        <item>澄迈</item>
+        <item>儋州</item>
+        <item>昌江</item>
+        <item>白沙</item>
+        <item>琼中</item>
+        <item>定安</item>
+        <item>屯昌</item>
+        <item>琼海</item>
+        <item>文昌</item>
+        <item>清兰</item>
+        <item>保亭</item>
+        <item>万宁</item>
+        <item>陵水</item>
+        <item>西沙</item>
+        <item>乐东</item>
+        <item>通什</item>
+        <item>香港</item>
+        <item>澳门</item>
+        <item>台北</item>
+        <item>高雄</item>
+        <item>东港</item>
+        <item>大武</item>
+        <item>恒春</item>
+        <item>兰屿</item>
+        <item>台南</item>
+        <item>台中</item>
+        <item>桃园</item>
+        <item>新竹</item>
+        <item>公馆</item>
+        <item>宜兰</item>
+        <item>马公</item>
+        <item>嘉义</item>
+        <item>玉山</item>
+        <item>新港</item>
+    </string-array><string name="superman_ok">确 定</string><string name="tab3_text">地图</string><string name="cancel">取消</string><string name="share">分享</string><string name="sd1_not_exist">SD卡1不存在</string><string name="hint_import_is_cost_time">导入离线地图比较耗时，现在导入？</string><string name="text_upload_contacts">上传联系人</string><string name="temperature">温度</string><string name="hint_video_mute_off">录音</string><string name="storage_full_and_delete_lock">空间不足，将清理加锁视频</string><string name="poi_search_near">正在查找</string><string-array name="city_array_6">
+        <item>阿拉善左旗市</item>
+    </string-array><string-array name="city_array_5">
+        <item>大兴安岭市</item>
+        <item>齐齐哈尔市</item>
+        <item>呼和浩特市</item>
+        <item>鄂尔多斯市</item>
+        <item>锡林浩特市</item>
+        <item>呼伦贝尔市</item>
+        <item>乌兰浩特市</item>
+        <item>乌鲁木齐市</item>
+        <item>克拉玛依市</item>
+        <item>香格里拉市</item>
+        
+        <item>阿拉善左旗</item>
+    </string-array><string-array name="city_array_4">
+        <item>哈尔滨市</item>
+        <item>牡丹江市</item>
+        <item>佳木斯市</item>
+        <item>七台河市</item>
+        <item>双鸭山市</item>
+        <item>葫芦岛市</item>
+        <item>海拉尔市</item>
+        <item>满洲里市</item>
+        <item>石家庄市</item>
+        <item>张家口市</item>
+        <item>石河子市</item>
+        <item>秦皇岛市</item>
+        <item>北戴河市</item>
+        <item>吐鲁番市</item>
+        <item>库尔勒市</item>
+        <item>阿拉尔市</item>
+        <item>阿克苏市</item>
+        <item>石嘴山市</item>
+        <item>马鞍山市</item>
+        <item>张家界市</item>
+        <item>珊瑚岛市</item>
+        <item>永署礁市</item>
+        <item>南沙岛市</item>
+        <item>防城港市</item>
+        <item>六盘水市</item>
+        <item>赫山区市</item>
+        <item>景德镇市</item>
+        <item>黄山站市</item>
+        <item>神农架市</item>
+        <item>连云港市</item>
+        <item>驻马店市</item>
+        <item>三门峡市</item>
+        <item>平顶山市</item>
+        <item>日喀则市</item>
+        <item>阿勒泰市</item>
+        <item>阿图什市</item>
+        <item>攀枝花市</item>
+        <item>五指山市</item>
+        <item>东吉屿市</item>
+        <item>阿里山市</item>
+        
+        <item>齐齐哈尔</item>
+        <item>呼和浩特</item>
+        <item>大兴安岭</item>
+        <item>鄂尔多斯</item>
+        <item>锡林浩特</item>
+        <item>呼伦贝尔</item>
+        <item>乌兰浩特</item>
+        <item>乌鲁木齐</item>
+        <item>克拉玛依</item>
+        <item>香格里拉</item>
+    </string-array><string name="drive_distance">行驶距离</string><string-array name="array_voice_command_3">
+        <item>第一条</item>
+        <item>第二条</item>
+        <item>第三条</item>
+        <item>第四条</item>
+        <item>第五条</item>
+        <item>上一页</item>
+        <item>翻页</item>
+        <item>开始</item>
+        <item>返回</item>
+    </string-array><string-array name="array_voice_command_2">
+        <item>第一项</item>
+        <item>第二项</item>
+        <item>第三项</item>
+        <item>第四项</item>
+        <item>第五项</item>
+        <item>前一页</item>
+        <item>后一页</item>
+        <item>确认</item>
+        <item>结束</item>
+    </string-array><string name="create">新建</string><string-array name="array_voice_command_1">
+        <item>第一个</item>
+        <item>第二个</item>
+        <item>第三个</item>
+        <item>第四个</item>
+        <item>第五个</item>
+        <item>上一页</item>
+        <item>下一页</item>
+        <item>确定</item>
+        <item>取消</item>
+    </string-array><string name="video_lock">视频加锁</string><string name="title_route_plan">路径规划</string><string name="no_update">最新</string><string name="importing_not_exist">正在导入离线地图，请勿离开。</string><string name="input_city_name">    输入城市名</string><string name="title_multimedia">多媒体</string><string-array name="university_of_province_city">
+
+        
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+        <item>北京</item>
+
+        
+        <item>天津</item>
+        <item>天津</item>
+        <item>天津</item>
+
+        
+        <item>上海</item>
+        <item>上海</item>
+        <item>上海</item>
+        <item>上海</item>
+        <item>上海</item>
+
+        
+        <item>重庆</item>
+        <item>重庆</item>
+        <item>重庆</item>
+
+        
+        <item>保定</item>
+        <item>秦皇岛</item>
+        <item>唐山</item>
+        <item>石家庄</item>
+        <item>石家庄</item>
+        <item>邯郸</item>
+        <item>保定</item>
+        <item>石家庄</item>
+        <item>廊坊</item>
+
+        
+        <item>开封</item>
+        <item>焦作</item>
+        <item>洛阳</item>
+        <item>郑州</item>
+        <item>新乡</item>
+
+        
+        <item>昆明</item>
+        <item>昆明</item>
+        <item>昆明</item>
+        <item>昆明</item>
+        <item>昆明</item>
+        <item>昆明</item>
+
+        
+        <item>沈阳</item>
+        <item>沈阳</item>
+        <item>大连</item>
+        <item>沈阳</item>
+
+        
+        <item>哈尔滨</item>
+        <item>哈尔滨</item>
+        <item>大庆</item>
+        <item>哈尔滨</item>
+
+        
+        <item>长沙</item>
+        <item>长沙</item>
+        <item>长沙</item>
+        <item>衡阳</item>
+        <item>株洲</item>
+        <item>长沙</item>
+        <item>湘潭</item>
+
+        
+        <item>合肥</item>
+        <item>芜湖</item>
+        <item>蚌埠</item>
+        <item>芜湖</item>
+        <item>合肥</item>
+        <item>合肥</item>
+        <item>合肥</item>
+        <item>六安</item>
+
+        
+        <item>济南</item>
+        <item>青岛</item>
+        <item>济南</item>
+        <item>青岛</item>
+
+        
+        <item>乌鲁木齐</item>
+        <item>乌鲁木齐</item>
+        <item>乌鲁木齐</item>
+        <item>乌鲁木齐</item>
+        <item>乌鲁木齐</item>
+        <item>乌鲁木齐</item>
+
+        
+        <item>镇江</item>
+        <item>南京</item>
+        <item>无锡</item>
+        <item>南京</item>
+
+        
+        <item>杭州</item>
+        <item>杭州</item>
+        <item>杭州</item>
+        <item>舟山</item>
+        <item>临安</item>
+        <item>杭州</item>
+        <item>金华</item>
+        <item>杭州</item>
+        <item>杭州</item>
+        <item>宁波</item>
+        <item>杭州</item>
+
+        
+        <item>南昌</item>
+        <item>南昌</item>
+        <item>赣州</item>
+        <item>南昌</item>
+        <item>南昌</item>
+        <item>南昌</item>
+
+        
+        <item>武汉</item>
+        <item>武汉</item>
+        <item>武汉</item>
+        <item>武汉</item>
+        <item>宜昌</item>
+        <item>武汉</item>
+        <item>荆州</item>
+        <item>武汉</item>
+
+        
+        <item>南宁</item>
+        <item>桂林</item>
+        <item>南宁</item>
+        <item>南宁</item>
+        <item>南宁</item>
+        <item>南宁</item>
+
+        
+        <item>兰州</item>
+        <item>兰州</item>
+        <item>兰州</item>
+        <item>兰州</item>
+
+        
+        <item>太原</item>
+        <item>太原</item>
+        <item>太原</item>
+        <item>太原</item>
+        <item>临汾</item>
+        <item>晋中</item>
+
+        
+        <item>呼和浩特</item>
+        <item>呼和浩特</item>
+        <item>呼和浩特</item>
+        <item>包头</item>
+        <item>呼和浩特</item>
+        <item>通辽</item>
+        <item>呼和浩特</item>
+        <item>呼和浩特</item>
+
+        
+        <item>西安</item>
+        <item>西安</item>
+        <item>西安</item>
+
+        
+        <item>长春</item>
+        <item>长春</item>
+        <item>长春</item>
+
+        
+        <item>福州</item>
+        <item>厦门</item>
+        <item>泉州</item>
+        <item>福州</item>
+        <item>福州</item>
+        <item>福州</item>
+
+        
+        <item>贵阳</item>
+        <item>贵阳</item>
+        <item>贵阳</item>
+        <item>贵阳</item>
+
+        
+        <item>广州</item>
+        <item>广州</item>
+        <item>广州</item>
+        <item>广州</item>
+        <item>广州</item>
+        <item>广州</item>
+        <item>广州</item>
+
+        
+        <item>西宁</item>
+        <item>西宁</item>
+        <item>西宁</item>
+
+        
+        <item>拉萨</item>
+
+        
+        <item>成都</item>
+        <item>成都</item>
+        <item>成都</item>
+        <item>成都</item>
+        <item>绵阳</item>
+        <item>成都</item>
+        <item>成都</item>
+        <item>成都</item>
+
+        
+        <item>银川</item>
+        <item>银川</item>
+        <item>银川</item>
+
+        
+        <item>海口</item>
+        <item>海口</item>
+        <item>海口</item>
+        <item>文昌</item>
+    </string-array><string name="no_wifi_hint">无WiFi网络,点击以查看WiFi设置</string><string name="hint_video_size_720">分辨率七二零P</string><string name="hint_navi_resume">有未完成的导航，是否还原？</string><string name="start_navigation">正在导航</string><string name="text_tts_source_en">text_tts_source_en</string><string name="mms_end_to">"正在发短信给</string><string name="download_state_default">已下载:--</string><string name="back">返回</string><string name="route_point_less">轨迹点数目小于2个</string><string name="dlg_keep_save">保存至存档</string><string name="_d_files_deleted">已删除 %d 个文件</string><string name="notif_server_starting">远程管理服务已启动</string><string name="cut">剪切</string><string name="re_download">重新下载</string><string name="content">发射</string><string name="root">根目录</string><string name="hint_navi_auth_fail">导航授权失败，请保持网络顺畅然后重试</string><string name="notif_title">远程管理服务正在运行</string><string name="not_import_offline_map">没有导入离线包，这可能是离线包放置位置不正确，或离线包已经导入过</string><string name="text_begin">请开始说话…</string><string-array name="category_values">
+        <item>read_syllable</item>
+        <item>read_word</item>
+        <item>read_sentence</item>
+    </string-array><string name="title_drive_route">行车轨迹</string><string name="title">确定要发射核武器?</string><string name="close_drawer">关闭抽屉</string><string name="video">视频</string><string name="folder_could_not_be_created">文件夹未创建</string><string name="import_sd_success">离线地图更新完成.</string><string name="superman_cancel">取 消</string><string name="add_favourite">添加收藏</string><string name="delete">删除</string><string name="photos">照片</string><string-array name="language_values">
+        <item>mandarin</item>
+        <item>cantonese</item>
+        <item>henanese</item>
+        <item>en_us</item>
+    </string-array><string name="instruction">请在“我的电脑”地址栏中输入：</string><string name="add_to_homescreen">创建快捷方式</string><string name="text_download_success">下载成功</string><string name="music">音乐</string><string name="size_s">大小: %s</string><string-array name="stream_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array><string name="cannot_read_directory_s">无法读取目录 %s</string><string name="sd_has_map">SD卡检测到%d个离线地图包</string><string name="contact_not_found">通讯录中未找到</string><string name="near_market">超市</string><string name="instruction_pre">启动后可以从电脑端远程管理手机文件</string><string name="start">开始</string><string name="remove_favourite">移除收藏</string><string name="files_pasted">文件已粘贴</string><string name="location_end">终点位置</string><string name="storage_full_cause_by_other">空间不足,请清理SD卡2</string><string name="no_route_file">轨迹文件不存在</string><string name="close_navi">退出导航</string><string name="chat_no_answer">小天不知道怎么回答了</string><string name="offline_download_start">开始下载离线地图</string><string name="wap">wap</string><string name="poi_has_result">找到结果</string><string name="near_oil_station">加油站</string><string name="city_downloaded">已下载城市</string><string name="clipboard_is_empty">剪贴板无内容</string><string name="confirm">确认</string><string name="app_id">55f793d5</string><string name="text_upload_success">上传成功</string><string name="near_hotel">酒店</string><string name="chat_hello_greet">你好，有什么可以帮您？</string><string name="open_file_with_">打开 %s 为</string><string name="refresh">刷新</string><string name="title_navigation">导航</string><string name="import_success_without_num">成功导入离线地图包，可以在下载管理查看</string><string name="hint_video_mute_on">静音</string><string name="rate_per_sec">%1$s/s</string><string name="title_edog">电子狗</string><string-array name="navi_intent">
+        <item>导航去</item>
+        <item>导航到</item>
+        <item>我要去</item>
+        <item>我要回</item>
+        <item>导航</item>
+        <item>去</item>
+        <item>到</item>
+        <item>回</item>
+    </string-array><string name="file_could_not_be_renamed_to_s">文件无法重命名为： %s</string><string name="text_cn_sentence">"一座座雪峰插入云霄，峰顶银光闪闪，大大小小的湖泊，像颗颗宝石镶嵌在彩带般的沟谷中。"</string><string-array name="category_entries">
+        <item>单字</item>
+        <item>词语</item>
+        <item>句子</item>
+    </string-array><string name="folder_empty">空文件夹</string><string name="movies">电影</string><string name="what_can_i_say">我可以说什么？</string><string name="sd2_not_exist">SD卡2不存在</string><string name="share_route_screenshot_to">分享轨迹图到</string><string name="objects_cut_to_clipboard">已剪切到剪贴板</string><string name="up">Up</string><string name="del_msg">是否要删除该视频吗？\n提示：删除后该视频不可恢复！</string><string-array name="stream_entries">
+        <item>通话</item>
+        <item>系统</item>
+        <item>铃声</item>
+        <item>音乐</item>
+        <item>闹铃</item>
+        <item>通知</item>
+    </string-array><string name="cur_type">当前正在使用：%1$s</string><string name="sd_has_no_map">SD卡未检测到离线地图包</string><string name="copy">复制</string><string name="paste_here">粘贴到此</string><string name="hint_no_network">无网络链接</string></file><file path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\values\styles.xml" qualifiers=""><style name="Theme_RecordDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style><style name="FileActionButtonStyle" parent="@android:style/Widget.Holo.Light.ActionButton">
+        <item name="android:minWidth">80dip</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+    </style><style name="AppTranslucentTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:actionBarSize">480dp</item>
+        <item name="android:actionButtonStyle">@style/FileActionButtonStyle</item>
+    </style><style name="ActionSheetAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/actionsheet_push_up_in</item>
+        <item name="android:windowExitAnimation">@anim/actionsheet_push_up_out</item>
+    </style><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style><style name="ThemeVolumeDialog" parent="@android:style/Animation.Dialog">
+        <item name="android:width">400dp</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style></file><file path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\values\themes.xml" qualifiers=""><style name="ActionSheet" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/ActionSheetAnimation</item>
+    </style></file><file name="iat_setting" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\xml\iat_setting.xml" qualifiers="" type="xml"/><file name="ise_settings" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\xml\ise_settings.xml" qualifiers="" type="xml"/><file name="tts_setting" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\xml\tts_setting.xml" qualifiers="" type="xml"/><file name="understand_setting" path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\main\res\xml\understand_setting.xml" qualifiers="" type="xml"/></source><source path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\generated\res\rs\debug"/><source path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\src\debug\res"/></dataSet><mergedItems/></merger>

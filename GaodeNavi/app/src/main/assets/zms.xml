@@ -1,0 +1,5 @@
+[SharedPreferences]
+
+(String)locLat	定位Lat
+(String)locLng	定位Lng
+(String)locCity	定位城市

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:background="@drawable/ui_setting_item_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="91dp" >
+
+
+        <ImageView
+            android:id="@+id/btnNavi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ui_icon_infowindow_navi_h" />
+
+        <TextView
+            android:id="@+id/textDistance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30dp"
+            android:layout_alignParentRight="true"
+            android:text="5.5Km"
+            android:textColor="#cccccc"
+            android:textSize="25sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@id/textDistance"
+            android:layout_toRightOf="@id/btnNavi"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textName"
+                android:layout_width="500dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:singleLine="true"
+                android:text="科技园"
+                android:textColor="#ffffff"
+                android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/textDetail"
+                android:layout_width="500dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:singleLine="true"
+                android:text="中华人民共和国广东省深圳市宝安区西乡街道"
+                android:textColor="#cccccc"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="4dp"
+        android:background="#000000" />
+
+</LinearLayout>

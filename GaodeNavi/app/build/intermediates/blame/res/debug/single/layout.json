@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\superman_alertdialog.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\layout\\superman_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simplenavi.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\layout\\activity_simplenavi.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navi_result_list_item.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\layout\\navi_result_list_item.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionsheet.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\layout\\actionsheet.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poikeywordsearch_uri.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\layout\\poikeywordsearch_uri.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\route_inputs.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\GaodeNavi\\app\\src\\main\\res\\layout\\route_inputs.xml"
+    }
+]

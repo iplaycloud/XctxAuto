@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/actionsheet_top_selector"
+        android:gravity="center"
+        android:text="导航到选中地点？"
+        android:textColor="#000000"
+        android:textSize="25sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="2dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textSimulate"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginRight="1dp"
+             android:background="@drawable/actionsheet_middle_selector"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="模拟导航"
+            android:textColor="#2E8B57"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/textReal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+             android:background="@drawable/actionsheet_middle_selector"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="实况导航"
+            android:textColor="#037BFF"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/actionsheet_bottom_selector"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="#FD4A2E"
+        android:textSize="25sp" />
+
+</LinearLayout>

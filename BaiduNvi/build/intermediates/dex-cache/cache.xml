@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e20febe85d354fce8aa27e87cedef6d22707b2eb">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_985e2ef3ec0788f1a6ef965f241a7d66c1f2da5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f1a8d7ad2f1fa70a3130c2e94719597712b7f1a">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9a31efe7b7329a1d58d929405ca7f867f7f5744b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_2f5c0c58b3728cfa4705f2645f4988eb4a0239ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6490d46678cc51ecd56be6bf2ab741ea940c61b8">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_7d10a7d51bc129f5545cddf1f45c0d5ec19166b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e140b5d68db311aebd14cfcf8ccd79e80b8be098">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ccfedfbfbb0221d27a24b7e1c8794d2aca997ca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4bd4220e2037791a3f072df301eb37fa8eb8c8da">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\BaiduNvi\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_62607df18fdc1c5f46d349f45339530ca3e3260e\classes.dex" />
+    </item>
+
+</items>

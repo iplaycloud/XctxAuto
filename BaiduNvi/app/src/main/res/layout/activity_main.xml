@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true" />
+
+    <RelativeLayout
+        android:id="@+id/layoutLocate"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/shape_locate_bg" >
+
+        <ImageView
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ui_map_locate_dark" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutLocateMode"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@id/layoutLocate"
+        android:background="@drawable/shape_locate_bg" >
+
+        <TextView
+            android:id="@+id/textLocateMode"
+            android:layout_width="50dp"
+            android:layout_height="38dp"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="普通"
+            android:textColor="#666666"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutOffline"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:layout_toRightOf="@id/layoutLocate"
+        android:background="@drawable/ui_back_arrow_bg_transparent"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ui_navi_download_offline" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutTop"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginBottom="5dp" >
+
+        <RelativeLayout
+            android:id="@+id/layoutBack"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone" >
+
+            <Button
+                android:id="@+id/btnToNearFromResult"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/ui_back_arrow_bg_transparent" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@drawable/ui_near_arrow_back" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutRoutePlanPref"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ui_main_setting_dot" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="13dp"
+                android:text="设置"
+                android:textColor="#ffffff"
+                android:textSize="18.5sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutRoadCondition"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/layoutRoutePlanPref"
+            android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+            <ImageView
+                android:id="@+id/imageRoadCondition"
+                android:layout_width="54dp"
+                android:layout_height="54dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/main_icon_roadcondition_off" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutSatellite"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/layoutRoadCondition"
+            android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+            <ImageView
+                android:id="@+id/imageSatellite"
+                android:layout_width="54dp"
+                android:layout_height="54dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/main_map_icon_satellite_off" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="13dp"
+                android:text="卫星"
+                android:textColor="#ffffff"
+                android:textSize="18.5sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@id/layoutSatellite"
+            android:layout_toRightOf="@id/layoutBack"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+
+                <LinearLayout
+                    android:id="@+id/layoutShowHistory"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:paddingLeft="5dp"
+                        android:singleLine="true"
+                        android:text="@string/navigation_with_blank"
+                        android:textColor="#dddddd"
+                        android:textSize="32sp" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutNear"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_toRightOf="@id/layoutBack"
+                android:layout_weight="1"
+                android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20dp"
+                    android:text="@string/near_with_blank"
+                    android:textColor="#dddddd"
+                    android:textSize="32sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutStar"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20dp"
+                    android:text="@string/star_with_blank"
+                    android:textColor="#dddddd"
+                    android:textSize="32sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutNearAdvice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/layoutTop"
+        android:background="#000000"
+        android:orientation="vertical"
+        android:paddingTop="5dp"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="185dp"
+            android:layout_marginBottom="5dp" >
+
+            <RelativeLayout
+                android:id="@+id/layoutNearOilStation"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/ui_near_item_height"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/ui_near_oil" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/near_oil_station"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/ui_near_item_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutNearParking"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/ui_near_item_height"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/ui_near_parking" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/near_parking"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/ui_near_item_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutNear4s"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/ui_near_item_height"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/ui_near_4s" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/near_4s"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/ui_near_item_text_size" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="185dp" >
+
+            <RelativeLayout
+                android:id="@+id/layoutNearBank"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/ui_near_item_height"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/ui_near_atm" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/near_atm"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/ui_near_item_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutShop"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/ui_near_item_height"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/ui_near_shop" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/near_market"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/ui_near_item_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutNearHotel"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/ui_near_item_height"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/ui_near_hotel" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/near_hotel"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/ui_near_item_text_size" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutHistory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:id="@+id/layoutHistoryTop"
+            android:layout_width="match_parent"
+            android:layout_height="80dp" >
+
+            <RelativeLayout
+                android:id="@+id/layoutHistoryBack"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:visibility="gone" >
+
+                <Button
+                    android:id="@+id/btnCloseHistory"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/ui_back_arrow_bg_transparent" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/ui_near_arrow_back" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btnHistoryNavi"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/ui_near_search" />
+
+            <RelativeLayout
+                android:id="@+id/layoutClearText"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toLeftOf="@id/btnHistoryNavi"
+                android:layout_toRightOf="@id/layoutHistoryBack"
+                android:background="#000000"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/btnClearText"
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/ui_navi_key_delete"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:layout_width="0px"
+                    android:layout_height="0px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" >
+
+                    <requestFocus />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:id="@+id/layoutNaviVoice"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/ui_back_arrow_bg_grey"
+                    android:gravity="center"
+                    android:visibility="visible" >
+
+                    <ImageView
+                        android:id="@+id/imgVoiceSearch"
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/icon_route_microphone" />
+
+                    <ProgressBar
+                        android:id="@+id/progressVoice"
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:layout_gravity="center"
+                        android:visibility="gone" />
+                </RelativeLayout>
+
+                <EditText
+                    android:id="@+id/etHistoryWhere"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toLeftOf="@id/btnClearText"
+                    android:layout_toRightOf="@id/layoutNaviVoice"
+                    android:gravity="center"
+                    android:hint="@string/input_navigation_destination"
+                    android:paddingLeft="5dp"
+                    android:singleLine="true"
+                    android:textColor="#dddddd"
+                    android:textColorHint="#cccccc"
+                    android:textSize="24sp" />
+
+                <EditText
+                    android:id="@+id/etHistoryCity"
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:hint="@string/destination_city"
+                    android:paddingLeft="5dp"
+                    android:singleLine="true"
+                    android:textColor="#dddddd"
+                    android:textColorHint="#cccccc"
+                    android:textSize="24sp"
+                    android:visibility="gone" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutDeleteAllHistoryParent"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_alignParentBottom="true"
+            android:background="#222222" >
+
+            <RelativeLayout
+                android:id="@+id/layoutDeleteAllHistory"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:visibility="invisible" >
+
+                <TextView
+                    android:id="@+id/textDeleteAllHistory"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:drawableLeft="@drawable/ui_navi_history_clear"
+                    android:text="清空搜索记录"
+                    android:textColor="#ffffff"
+                    android:textSize="25sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/listHistory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/layoutDeleteAllHistoryParent"
+            android:layout_below="@id/layoutHistoryTop"
+            android:background="#222222"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:id="@+id/textNoSearchRecord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="暂无搜索记录"
+            android:textColor="#ffffff"
+            android:textSize="25sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/layoutTop"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:id="@+id/layoutPageControl"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="#000000" >
+
+            <RelativeLayout
+                android:id="@+id/layoutPagePriv"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+                <ImageView
+                    android:id="@+id/imagePagePriv"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/icon_arrow_up" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutPageNext"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+                <ImageView
+                    android:id="@+id/imagePageNext"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/icon_arrow_down" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/listResult"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@id/layoutPageControl"
+            android:background="#000000" />
+
+        <ImageView
+            android:id="@+id/imageVoiceListen"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="90dp"
+            android:src="@drawable/ui_voice_listen"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutStarContent"
+        android:layout_width="416dp"
+        android:layout_height="175dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/layoutTop"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/layoutStarEditWork"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/ui_back_arrow_bg_transparent"
+                android:gravity="center" >
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    android:src="@drawable/ui_navi_star_edit" >
+                </ImageView>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutStarNaviWork"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_toLeftOf="@id/layoutStarEditWork"
+                android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+                <ImageView
+                    android:id="@+id/imageStarWork"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="28dp"
+                    android:src="@drawable/ui_navi_star_work" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="50dp"
+                    android:layout_toRightOf="@id/imageStarWork"
+                    android:text="@string/star_company"
+                    android:textColor="#ffffff"
+                    android:textSize="28sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/layoutStarEditHome"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/ui_back_arrow_bg_transparent"
+                android:gravity="center" >
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    android:src="@drawable/ui_navi_star_edit" >
+                </ImageView>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutStarNaviHome"
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:layout_toLeftOf="@id/layoutStarEditHome"
+                android:background="@drawable/ui_back_arrow_bg_transparent" >
+
+                <ImageView
+                    android:id="@+id/imageStarHome"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="28dp"
+                    android:src="@drawable/ui_navi_star_home" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="50dp"
+                    android:layout_toRightOf="@id/imageStarHome"
+                    android:text="@string/star_home"
+                    android:textColor="#ffffff"
+                    android:textSize="28sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

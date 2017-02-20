@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_map.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\activity_update_map.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_audio_record.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\dialog_audio_record.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_route_plan_preference.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\activity_set_route_plan_preference.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_window.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\float_window.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionsheet.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\actionsheet.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_map_show.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\activity_offline_map_show.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\superman_alertdialog.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\superman_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navi_result_list_item.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\navi_result_list_item.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offline_map_all_city_list_item.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\offline_map_all_city_list_item.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offline_baidumap_locallist_item.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\offline_baidumap_locallist_item.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_baidumap.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\activity_offline_baidumap.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_star_place.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\activity_set_star_place.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navi_history_list_item.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\navi_history_list_item.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

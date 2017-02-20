@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionsheet_bottom_pressed.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionsheet_middle_pressed.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionsheet_top_pressed.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionsheet_single_pressed.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionsheet_bottom_normal.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionsheet_single_normal.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionsheet_middle_normal.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionsheet_top_normal.9.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_background.png",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable-hdpi\\skin_background.png"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_parking.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_near_parking.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_voice_listen.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_voice_listen.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_hand_click.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\anim_hand_click.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_shop.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_near_shop.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_hotel.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_near_hotel.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_back_arrow_bg_black.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_back_arrow_bg_black.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_search.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_near_search.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_back_arrow_bg_grey.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_back_arrow_bg_grey.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_button.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\cancel_button.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_locate_bg.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\shape_locate_bg.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_search_voice.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_near_search_voice.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_button.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ok_button.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_4s.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_near_4s.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_setting_item_bg.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_setting_item_bg.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_locate_bg_pressed.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\shape_locate_bg_pressed.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_back_arrow_bg_transparent.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_back_arrow_bg_transparent.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_setting_volume_bg.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\shape_setting_volume_bg.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_back_arrow_bg_blue.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_back_arrow_bg_blue.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_oil.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_near_oil.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_near_atm.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_near_atm.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_sync_cloud.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\ui_sync_cloud.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_locate_bg_normal.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\BaiduNvi\\app\\src\\main\\res\\drawable\\shape_locate_bg_normal.xml"
+    }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/voice_progress_1"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/voice_progress_2"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/voice_progress_3"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/voice_progress_4"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/voice_progress_5"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/voice_progress_6"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/voice_progress_7"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/voice_progress_8"
+        android:duration="200"/>
+
+</animation-list>

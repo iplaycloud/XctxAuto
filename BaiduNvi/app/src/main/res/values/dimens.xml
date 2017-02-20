@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Near Search -->
+    <dimen name="ui_near_item_height">185dp</dimen>
+    <dimen name="ui_near_item_width">278dp</dimen>
+    <dimen name="ui_near_item_text_size">30sp</dimen>
+    <dimen name="setting_item_height">85dp</dimen>
+    
+    <!-- -->
+    <dimen name="setting_route_plan_pref_text_size">25sp</dimen>
+
+</resources>

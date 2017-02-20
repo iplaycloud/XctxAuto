@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\libs\MapApiServices.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e84628aa8eea7b9892768f19c41dbe02abc7f666">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\build\intermediates\pre-dexed\debug\MapApiServices_2f7690aa368a288c06897a903bbbf111894cf6a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\libs\AMap_ Location_v1.4.0_20150830.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77864ab8aa4e06bec7125d37edc68a5afd2d6930">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\build\intermediates\pre-dexed\debug\AMap_ Location_v1.4.0_20150830_09a9adc05b7bc4d1da6ef8639985d761cdb94955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\libs\Android_Map_V3.0.20150831.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7cd1ac572162f78b5ca23d763d4c3cc9b7e1e07">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\build\intermediates\pre-dexed\debug\Android_Map_V3.0.20150831_57abf64554d54b814d2b91b1bb6875129a8836a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\libs\AMap_ Navi_v1.3.0_20150828.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78ff745693600e639b973dd5cb8cccb5166d200">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\build\intermediates\pre-dexed\debug\AMap_ Navi_v1.3.0_20150828_ad6874df0b9d5c986cbf84c4dbaf25cd67d26970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\libs\Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4c7769cca528c10294c020e717561b233e1f385">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\build\intermediates\pre-dexed\debug\Sunflower_bbcb8e3c3ca67dedae8f79adfc3b3fb0d8b47f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2f592bfdb1dd7694fc715847747396aa2f8d8cb">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\build\intermediates\pre-dexed\debug\Msc_7431176abe8d3aeb9a9cf83b98ef534d0c6911de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\GaodeNavi\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_2f5c0c58b3728cfa4705f2645f4988eb4a0239ac.jar" />
+    </item>
+
+</items>

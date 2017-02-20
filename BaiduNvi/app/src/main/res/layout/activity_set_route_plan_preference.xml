@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="400dp"
+    android:background="@drawable/shape_setting_volume_bg"
+    android:padding="10dp" >
+
+    <RelativeLayout
+        android:id="@+id/layoutTitleTop"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:text="路线规划策略"
+            android:textColor="#99000000"
+            android:textSize="30sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="#cccccc" />
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/routePlanGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layoutTitleTop"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="180dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical" >
+
+        <RadioButton
+            android:id="@+id/routePlanRecommend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="推荐"
+            android:textColor="#1E88E5"
+            android:textSize="@dimen/setting_route_plan_pref_text_size" />
+
+        <RadioButton
+            android:id="@+id/routePlanMinTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="高速优先"
+            android:textColor="#1E88E5"
+            android:textSize="@dimen/setting_route_plan_pref_text_size" />
+
+        <RadioButton
+            android:id="@+id/routePlanMinDist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="少走高速"
+            android:textColor="#1E88E5"
+            android:textSize="@dimen/setting_route_plan_pref_text_size" />
+
+        <RadioButton
+            android:id="@+id/routePlanMinToll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="少收费"
+            android:textColor="#1E88E5"
+            android:textSize="@dimen/setting_route_plan_pref_text_size" />
+
+        <RadioButton
+            android:id="@+id/routePlanAvoidJam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="躲避拥堵"
+            android:textColor="#1E88E5"
+            android:textSize="@dimen/setting_route_plan_pref_text_size" />
+    </RadioGroup>
+
+    <RelativeLayout
+        android:id="@+id/layoutTitleBottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/routePlanGroup"
+        android:layout_marginTop="20dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:text="离线地图管理"
+            android:textColor="#99000000"
+            android:textSize="30sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="#cccccc" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layoutTitleBottom"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="10dp" >
+
+        <ImageView
+            android:id="@+id/imageUpdateSD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/ui_sync_cloud" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/imageUpdateSD"
+            android:layout_alignRight="@id/imageUpdateSD"
+            android:layout_alignBottom="@id/imageUpdateSD"
+            android:layout_alignTop="@id/imageUpdateSD"
+            android:text="SD"
+            android:gravity="center"
+            android:textColor="#1E88E5"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/textUpdateSD"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/imageUpdateSD"
+            android:text="存储卡导入"
+            android:textColor="#1E88E5"
+            android:textSize="@dimen/setting_route_plan_pref_text_size" />
+
+        <TextView
+            android:id="@+id/textUpdateOL"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:text="在线更新"
+            android:textColor="#1E88E5"
+            android:textSize="@dimen/setting_route_plan_pref_text_size" />
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:id="@+id/imageUpdateOL"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/textUpdateOL"
+            android:src="@drawable/ui_sync_cloud" />
+        
+         <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/imageUpdateOL"
+            android:layout_alignRight="@id/imageUpdateOL"
+            android:layout_alignBottom="@id/imageUpdateOL"
+            android:layout_alignTop="@id/imageUpdateOL"
+            android:text="OL"
+            android:gravity="center"
+            android:textColor="#1E88E5"
+            android:textSize="15sp" />
+        
+    </RelativeLayout>
+
+</RelativeLayout>
