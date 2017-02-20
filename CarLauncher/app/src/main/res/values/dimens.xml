@@ -1,0 +1,111 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="margin_">12dp</dimen>
+    <dimen name="pading_">7dp</dimen>
+    <dimen name="btn_size">28sp</dimen>
+    <dimen name="txt_size">24sp</dimen>
+
+    <!-- Music -->
+
+
+    <!-- 屏幕宽度减去SlidingMenu的宽度 -->
+    <dimen name="slidingmenu_offset">610dp</dimen>
+    <dimen name="shadow_width">20dp</dimen>
+    <dimen name="playqueue_dialog_marginright">0dp</dimen>
+    <dimen name="playqueue_dialog_marginbottom">80dp</dimen>
+    <dimen name="playqueue_dialog_width">325dp</dimen>
+    <dimen name="playqueue_dialog_height">470dp</dimen>
+    <dimen name="title_text_sp">24sp</dimen>
+
+    <!-- 分割线高度 -->
+    <dimen name="line_height">1dp</dimen>
+
+    <!-- zms START:mdpi -->
+    <dimen name="date_week_size">24sp</dimen>
+    <dimen name="clock_size">80sp</dimen>
+    <dimen name="drawable_ring_size">5dip</dimen>
+    <dimen name="weather_text_location">32sp</dimen>
+    <dimen name="weather_text_clock">80sp</dimen>
+    <dimen name="weather_text_date">28sp</dimen>
+    <dimen name="weather_text_post_time">20sp</dimen>
+    <dimen name="weather_text_weather">40sp</dimen>
+    <dimen name="weather_button_update">48dp</dimen>
+    <dimen name="weather_text_temp_today">105sp</dimen>
+    <dimen name="weather_text_wind_today">32sp</dimen>
+    <dimen name="weather_margin_more_info">20dp</dimen>
+    <dimen name="weather_more_info_image_size">25dp</dimen>
+    <dimen name="weather_more_info_text_size">20sp</dimen>
+    <dimen name="weather_text_more_week">20sp</dimen>
+    <dimen name="weather_image_more_weather">75dp</dimen>
+    <dimen name="weather_text_more_temp">20sp</dimen>
+    <dimen name="chat_text_hint">30sp</dimen>
+    <!-- System Setting Brightness -->
+    <dimen name="setting_system_bright_text_size">25sp</dimen>
+    <dimen name="setting_system_bright_item_height">80dp</dimen>
+    <dimen name="setting_system_bright_radio_margin">15dp</dimen>
+    <!-- File Manager -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="list_icon_size">50dp</dimen>
+    <dimen name="list_item_padding">5dp</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="clipboard_drawer_width">@dimen/nav_drawer_width</dimen>
+    <dimen name="card_content_height">200dp</dimen>
+    <dimen name="min_tile_width">200dp</dimen>
+    <!-- Main Activity -->
+    <dimen name="ui_main_navigation_bar_width">108dp</dimen>
+    <dimen name="ui_main_hsv_text_size">23sp</dimen>
+    <dimen name="ui_main_hsv_text_margin_bottom">10dp</dimen>
+    <dimen name="ui_main_hsv_item_width">185dp</dimen>
+    <dimen name="ui_main_hsv_item_height">200dp</dimen>
+    <dimen name="ui_main_hsv_item_margin">2dp</dimen>
+    <dimen name="ui_main_hsv_height">204dp</dimen>
+    <dimen name="ui_main_surface_height">276dp</dimen>
+    <dimen name="ui_main_surface_width">490dp</dimen>
+    <dimen name="ui_main_clock_text_size">77sp</dimen>
+    <dimen name="ui_main_clock_margin_top">60dp</dimen>
+    <dimen name="ui_main_clock_margin_left">15dp</dimen>
+    <dimen name="ui_main_date_text_size">24sp</dimen>
+
+    <!-- Multimedia Activity -->
+    <dimen name="ui_media_text_item_size">35sp</dimen>
+
+    <!-- Near Search Activity -->
+    <dimen name="ui_near_item_height">185dp</dimen>
+    <dimen name="ui_near_item_width">278dp</dimen>
+    <dimen name="ui_near_item_text_size">30sp</dimen>
+
+    <!-- Chat Activity -->
+    <dimen name="ui_chat_speak_text_size">22sp</dimen>
+
+    <!-- Setting Activity -->
+    <dimen name="setting_item_height">95dp</dimen>
+    <dimen name="setting_item_separator_margin">10dp</dimen>
+    <dimen name="setting_item_separator_height">1dp</dimen>
+    <dimen name="setting_item_image_height">40dp</dimen>
+    <dimen name="setting_item_image_margin_left">60dp</dimen>
+    <dimen name="setting_item_title_text_size">30sp</dimen>
+    <dimen name="setting_item_content_text_size">20sp</dimen>
+    <dimen name="setting_item_text_margin_left">150dp</dimen>
+    <dimen name="setting_item_content_marign_right">70dp</dimen>
+    <dimen name="setting_tab_image">70px</dimen>
+    <dimen name="setting_tab_text">25px</dimen>
+    <dimen name="ui_topbar_height">95dp</dimen>
+
+    <!-- WeChat -->
+
+    <dimen name="LargeTextSize">16dp</dimen>
+    <dimen name="BasicTextSize">15dp</dimen>
+    <dimen name="TitleTextSize">18dp</dimen>
+    <dimen name="SmallTextSize">14dp</dimen>
+    <dimen name="SmallerTextSize">13dp</dimen>
+    <dimen name="LargestTextSize">30dp</dimen>
+    <dimen name="ChattingTextSize">16dp</dimen>
+    <dimen name="ChattingContentMinHeight">49dp</dimen>
+    <dimen name="PreferenceItemHeight">42dp</dimen>
+    <dimen name="ConversationItemHeight">58dp</dimen>
+    <dimen name="LargeAvatarSize">56dp</dimen>
+
+</resources>

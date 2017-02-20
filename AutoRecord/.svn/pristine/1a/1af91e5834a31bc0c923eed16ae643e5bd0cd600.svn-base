@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_take_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\photo_take_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ui_main_video_recording_1.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\ui_main_video_recording_1.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_lock_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_lock_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_switch_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\camera_switch_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_take_normal_.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\photo_take_normal_.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_stop_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_stop_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\side_shadow.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\side_shadow.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_size_fhd_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_size_fhd_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_take_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\photo_take_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_line_point.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\back_line_point.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_line_reset.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\back_line_reset.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_start_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_start_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_mute_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_mute_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_size_hd_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_size_hd_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_mute_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_mute_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ui_dialog_warning.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\ui_dialog_warning.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_unlock_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_unlock_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_length_1m_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_length_1m_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_line_hide.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\back_line_hide.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_line_show.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\back_line_show.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_lock_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_lock_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_take_pressed_photo_take_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\photo_take_pressed_photo_take_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_length_3m_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_length_3m_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_dialog_recording.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_recording.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_size_hd_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_size_hd_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_length_1m_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_length_1m_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_unmute_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_unmute_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ui_main_video_recording_0.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\ui_main_video_recording_0.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_dialog_audio_record_bg.9.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_audio_record_bg.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_size_fhd_normal.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_size_fhd_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_length_3m_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_length_3m_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_stop_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_stop_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_start_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_start_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_line_edit.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\back_line_edit.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_unlock_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_unlock_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_switch_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\camera_switch_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_unmute_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable-hdpi\\video_unmute_pressed.png"
+    }
+]

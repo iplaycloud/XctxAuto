@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_system_volume.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\layout\\activity_setting_system_volume.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_gravity.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\layout\\activity_setting_gravity.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quick_setting.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\layout\\activity_quick_setting.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_sensor_modify.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\layout\\activity_image_sensor_modify.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_magic.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\layout\\activity_magic.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_system_display.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\layout\\activity_setting_system_display.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

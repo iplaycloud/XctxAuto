@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camera_video.ogg",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\raw\\camera_video.ogg"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\raw\\open.ogg",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\raw\\open.ogg"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camera_image.ogg",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\raw\\camera_image.ogg"
+    }
+]

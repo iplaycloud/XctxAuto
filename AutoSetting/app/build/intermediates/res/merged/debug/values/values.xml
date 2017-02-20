@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_dark">#3333FF</color>
+    <color name="blue_light">#3399FF</color>
+    <color name="content_color">#737373</color>
+    <color name="display_item_text_color">#7dc7c0</color>
+    <color name="display_time_text_color">#1E88E5</color>
+    <color name="gravity_hint_main">#ffffff</color>
+    <color name="gravity_hint_vice">#959595</color>
+    <color name="gravity_level_text_color">#ffffff</color>
+    <color name="list_backgroud_color">#2fb3cb</color>
+    <color name="magic_btn_text_color">#1E88E5</color>
+    <color name="quick_setting_text_color">#ffffff</color>
+    <color name="setting_bg_color">#1f2227</color>
+    <color name="setting_item_bg_grey">#29292d</color>
+    <color name="setting_item_separator">#28313b</color>
+    <color name="setting_item_title_color">#ffffff</color>
+    <color name="setting_tab_bg">#000000</color>
+    <color name="setting_tab_off">#262626</color>
+    <color name="setting_tab_on">#ec6100</color>
+    <color name="setting_tab_text_off">#878787</color>
+    <color name="setting_tab_text_on">#ffffff</color>
+    <color name="setting_title_bg">#28313b</color>
+    <color name="title_color">#0f8ec5</color>
+    <color name="ui_back_arrow_bg_black_normal">#000000</color>
+    <color name="ui_back_arrow_bg_black_pressed">#ff6900</color>
+    <color name="ui_back_arrow_bg_blue_normal">#00a0e9</color>
+    <color name="ui_back_arrow_bg_blue_pressed">#3366FF</color>
+    <color name="ui_back_arrow_bg_grey_normal">#29292d</color>
+    <color name="ui_back_arrow_bg_grey_pressed">#444448</color>
+    <color name="ui_back_arrow_bg_transparent_normal">#88000000</color>
+    <color name="ui_back_arrow_bg_transparent_pressed">#ff6900</color>
+    <color name="volume_bg">#444444</color>
+    <color name="white">#FFFFFF</color>
+    <drawable name="layout_backgroud">#000000</drawable>
+    <drawable name="line_background">#161823</drawable>
+    <string name="app_name">AutoSetting</string>
+    <string name="display_auto_adjust">亮度根据时间自动调节</string>
+    <string name="display_auto_dim">屏幕自动关闭</string>
+    <string name="display_brightness">亮度</string>
+    <string name="display_time_10m">10分</string>
+    <string name="display_time_1m">1分</string>
+    <string name="display_time_2m">2分</string>
+    <string name="display_time_30s">30秒</string>
+    <string name="display_time_forever">永不休眠</string>
+    <string name="gravity_hint_main">设置合适的灵敏度</string>
+    <string name="gravity_hint_vice">过低较难触发视频加锁，过高则容易导致误判</string>
+    <string name="gravity_level_high">高</string>
+    <string name="gravity_level_low">低</string>
+    <string name="gravity_level_middle">中</string>
+    <string name="image_sensor_0_255">请输入0-255</string>
+    <string name="image_sensor_contrast_day">对比度(白天)</string>
+    <string name="image_sensor_contrast_night">对比度(晚上)</string>
+    <string name="image_sensor_light_day">亮度(白天)</string>
+    <string name="image_sensor_light_night">亮度(晚上)</string>
+    <string name="image_sensor_light_night2">亮度(晚上2)</string>
+    <string name="image_sensor_saturation">饱和度</string>
+    <string name="image_sensor_set">设置</string>
+    <string name="magic_application">应用</string>
+    <string name="magic_audio_set">设置</string>
+    <string name="magic_back_off">ACC下电唤醒关闭</string>
+    <string name="magic_back_on">ACC下电唤醒开启</string>
+    <string name="magic_back_record">ACC下电唤醒</string>
+    <string name="magic_close_cpu_temp">关闭温度检测</string>
+    <string name="magic_cpu_info">性能监视器</string>
+    <string name="magic_developer_option">开发者选项</string>
+    <string name="magic_device_test">设备测试</string>
+    <string name="magic_engineer_mode">工程模式</string>
+    <string name="magic_fm_off">FM关闭</string>
+    <string name="magic_fm_on">FM开启</string>
+    <string name="magic_hint_input_pass">输入工程代码</string>
+    <string name="magic_input_audio_channel">请输入音频通道</string>
+    <string name="magic_mtk_logger">MTKLogger</string>
+    <string name="magic_open_cpu_temp">打开温度检测</string>
+    <string name="magic_open_img_sensor">录像调节</string>
+    <string name="magic_record_bitrate_05m">0.5M</string>
+    <string name="magic_record_bitrate_10m">10M</string>
+    <string name="magic_record_bitrate_12m">12M</string>
+    <string name="magic_record_bitrate_1m">1M</string>
+    <string name="magic_record_bitrate_2m">2M</string>
+    <string name="magic_record_bitrate_3m">3M</string>
+    <string name="magic_record_bitrate_4m">4M</string>
+    <string name="magic_record_bitrate_6m">6M</string>
+    <string name="magic_record_bitrate_7m">7M</string>
+    <string name="magic_record_bitrate_8m">8M</string>
+    <string name="magic_record_bitrate_9m">9M</string>
+    <string name="magic_record_bitrate_back">后录码率</string>
+    <string name="magic_record_bitrate_front">前录1080P码率</string>
+    <string name="magic_system_camera">系统相机</string>
+    <string name="magic_system_setting">系统设置</string>
+    <string name="magic_usb_mode">USB模式</string>
+    <string name="magic_uvc_mode">UVC模式</string>
+    <string name="quick_setting_airplane_on">请先关闭飞行模式</string>
+    <string name="quick_setting_text_airplane">飞行模式</string>
+    <string name="quick_setting_text_bluetooth">蓝牙</string>
+    <string name="quick_setting_text_data">数据</string>
+    <string name="quick_setting_text_gps">GPS</string>
+    <string name="quick_setting_text_wlan">WLAN</string>
+    <string name="set_success_reboot">(设置后重启生效)</string>
+    <string name="text_hint">[说明]\n音频通道：\n0-系统到喇叭 \n1-蓝牙到喇叭 \n2-系统到FM \n3-BT到FM</string>
+    <string name="text_usb_mode">USB模式</string>
+    <string name="title_about">关于设备</string>
+    <string name="title_apn">APN设置</string>
+    <string name="title_crash">碰撞侦测</string>
+    <string name="title_date_time">日期和时间</string>
+    <string name="title_display">显示</string>
+    <string name="title_ota">系统升级</string>
+    <string name="title_park_monitor">停车守卫</string>
+    <string name="title_reset">恢复出厂设置</string>
+    <string name="title_setting">设置</string>
+    <string name="title_setting_gravity">系统设置-碰撞侦测灵敏度</string>
+    <string name="title_sound">声音</string>
+    <string name="title_storage">存储设置</string>
+    <string name="title_traffic_status">流量使用情况</string>
+    <string name="title_usb">USB连接设置</string>
+    <string name="title_wifi">Wi-Fi</string>
+    <string name="title_wifi_ap">热点分享</string>
+    <string name="volume_ringtone">铃声</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+        -->
+    </style>
+</resources>

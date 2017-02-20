@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zms_translate_left_in.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zms_translate_left_in.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_exit.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zoom_exit.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zms_translate_left_out.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zms_translate_left_out.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_enter.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zoom_enter.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zms_translate_up_in.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zms_translate_up_in.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zms_translate_down_out.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zms_translate_down_out.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zms_translate_down_in.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zms_translate_down_in.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zms_translate_up_out.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zms_translate_up_out.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zms_translate_right_out.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zms_translate_right_out.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zms_translate_right_in.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\anim\\zms_translate_right_in.xml"
+    }
+]

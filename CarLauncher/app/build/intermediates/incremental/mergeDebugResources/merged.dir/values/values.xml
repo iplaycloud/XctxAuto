@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#272727</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="blue_dark">#3333FF</color>
+    <color name="blue_light">#3399FF</color>
+    <color name="bottom_color">#00000000</color>
+    <color name="content_color">#737373</color>
+    <color name="deepcolor">#faaa5f</color>
+    <color name="dialog_text_hint">#ffb0b0b0</color>
+    <color name="divider_color">#6fffffff</color>
+    <color name="gray">#A6A6A0</color>
+    <color name="green">#00FF00</color>
+    <color name="grey_dark">#ff454545</color>
+    <color name="grey_dark_light">#55666666</color>
+    <color name="grey_white">#fff0f0f0</color>
+    <color name="half_transparent">#3f000000</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_blue_light2">#aa33b5e5</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="list_backgroud_color">#2fb3cb</color>
+    <color name="naming">#ABABAB</color>
+    <color name="orange">#ff9900</color>
+    <color name="orange_yellow">#9b9ba0</color>
+    <color name="red">#FF0000</color>
+    <color name="remote_connect_text">#FFe78018</color>
+    <color name="remote_disconnect_text">#FF901821</color>
+    <color name="setting_item_bg">#111111</color>
+    <color name="setting_item_bg_grey">#29292d</color>
+    <color name="setting_item_separator">#343434</color>
+    <color name="setting_item_title_color">#b6b6b6</color>
+    <color name="setting_tab_bg">#000000</color>
+    <color name="setting_tab_off">#262626</color>
+    <color name="setting_tab_on">#ec6100</color>
+    <color name="setting_tab_text_off">#878787</color>
+    <color name="setting_tab_text_on">#ffffff</color>
+    <color name="setting_title_bg">#222222</color>
+    <color name="shadowcolor">#333333</color>
+    <color name="thumbColor">#66aaaaaa</color>
+    <color name="title_color">#0f8ec5</color>
+    <color name="top_color">#01589e</color>
+    <color name="trans_white">#afffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="ui_back_arrow_bg_black_normal">#000000</color>
+    <color name="ui_back_arrow_bg_black_pressed">#ff6900</color>
+    <color name="ui_back_arrow_bg_blue_normal">#00a0e9</color>
+    <color name="ui_back_arrow_bg_blue_pressed">#3366FF</color>
+    <color name="ui_back_arrow_bg_grey_normal">#29292d</color>
+    <color name="ui_back_arrow_bg_grey_pressed">#444448</color>
+    <color name="ui_back_arrow_bg_transparent_normal">#88000000</color>
+    <color name="ui_back_arrow_bg_transparent_pressed">#ff6900</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFF000</color>
+    <declare-styleable name="JazzyViewPager"><attr name="style">
+            <enum name="standard" value="0"/>
+            <enum name="tablet" value="1"/>
+            <enum name="cubein" value="2"/>
+            <enum name="cubeout" value="3"/>
+            <enum name="flipvertical" value="4"/>
+            <enum name="fliphorizontal" value="5"/>
+            <enum name="stack" value="6"/>
+            <enum name="zoomin" value="7"/>
+            <enum name="zoomout" value="8"/>
+            <enum name="rotateup" value="9"/>
+            <enum name="rotatedown" value="10"/>
+            <enum name="accordion" value="11"/>
+        </attr><attr format="boolean" name="fadeEnabled"/><attr format="boolean" name="outlineEnabled"/><attr format="color|reference" name="outlineColor"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabledMusic"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="SwitchButton"><attr format="reference" name="onDrawable"/><attr format="reference" name="offDrawable"/><attr format="reference" name="thumbDrawable"/><attr format="dimension|reference" name="thumb_margin"/><attr format="dimension|reference" name="thumb_marginTop"/><attr format="dimension|reference" name="thumb_marginBottom"/><attr format="dimension|reference" name="thumb_marginLeft"/><attr format="dimension|reference" name="thumb_marginRight"/><attr format="dimension|reference" name="thumb_width"/><attr format="dimension|reference" name="thumb_height"/><attr format="color|reference" name="onColor"/><attr format="color|reference" name="offColor"/><attr format="color|reference" name="thumbColor"/><attr format="color|reference" name="thumbPressedColor"/><attr format="integer" name="animationVelocity"/><attr format="integer" name="radius"/><attr format="float" name="measureFactor"/><attr format="dimension|reference" name="insetLeft"/><attr format="dimension|reference" name="insetRight"/><attr format="dimension|reference" name="insetTop"/><attr format="dimension|reference" name="insetBottom"/></declare-styleable>
+    <dimen name="BasicTextSize">15dp</dimen>
+    <dimen name="ChattingContentMinHeight">49dp</dimen>
+    <dimen name="ChattingTextSize">16dp</dimen>
+    <dimen name="ConversationItemHeight">58dp</dimen>
+    <dimen name="LargeAvatarSize">56dp</dimen>
+    <dimen name="LargeTextSize">16dp</dimen>
+    <dimen name="LargestTextSize">30dp</dimen>
+    <dimen name="PreferenceItemHeight">42dp</dimen>
+    <dimen name="SmallTextSize">14dp</dimen>
+    <dimen name="SmallerTextSize">13dp</dimen>
+    <dimen name="TitleTextSize">18dp</dimen>
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="btn_size">28sp</dimen>
+    <dimen name="card_content_height">200dp</dimen>
+    <dimen name="chat_text_hint">30sp</dimen>
+    <dimen name="clipboard_drawer_width">@dimen/nav_drawer_width</dimen>
+    <dimen name="clock_size">80sp</dimen>
+    <dimen name="date_week_size">24sp</dimen>
+    <dimen name="drawable_ring_size">5dip</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="list_icon_size">50dp</dimen>
+    <dimen name="list_item_padding">5dp</dimen>
+    <dimen name="margin_">12dp</dimen>
+    <dimen name="min_tile_width">200dp</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="pading_">7dp</dimen>
+    <dimen name="playqueue_dialog_height">470dp</dimen>
+    <dimen name="playqueue_dialog_marginbottom">80dp</dimen>
+    <dimen name="playqueue_dialog_marginright">0dp</dimen>
+    <dimen name="playqueue_dialog_width">325dp</dimen>
+    <dimen name="setting_item_content_marign_right">70dp</dimen>
+    <dimen name="setting_item_content_text_size">20sp</dimen>
+    <dimen name="setting_item_height">95dp</dimen>
+    <dimen name="setting_item_image_height">40dp</dimen>
+    <dimen name="setting_item_image_margin_left">60dp</dimen>
+    <dimen name="setting_item_separator_height">1dp</dimen>
+    <dimen name="setting_item_separator_margin">10dp</dimen>
+    <dimen name="setting_item_text_margin_left">150dp</dimen>
+    <dimen name="setting_item_title_text_size">30sp</dimen>
+    <dimen name="setting_system_bright_item_height">80dp</dimen>
+    <dimen name="setting_system_bright_radio_margin">15dp</dimen>
+    <dimen name="setting_system_bright_text_size">25sp</dimen>
+    <dimen name="setting_tab_image">70px</dimen>
+    <dimen name="setting_tab_text">25px</dimen>
+    <dimen name="shadow_width">20dp</dimen>
+    <dimen name="slidingmenu_offset">610dp</dimen>
+    <dimen name="title_text_sp">24sp</dimen>
+    <dimen name="txt_size">24sp</dimen>
+    <dimen name="ui_chat_speak_text_size">22sp</dimen>
+    <dimen name="ui_main_clock_margin_left">15dp</dimen>
+    <dimen name="ui_main_clock_margin_top">60dp</dimen>
+    <dimen name="ui_main_clock_text_size">77sp</dimen>
+    <dimen name="ui_main_date_text_size">24sp</dimen>
+    <dimen name="ui_main_hsv_height">204dp</dimen>
+    <dimen name="ui_main_hsv_item_height">200dp</dimen>
+    <dimen name="ui_main_hsv_item_margin">2dp</dimen>
+    <dimen name="ui_main_hsv_item_width">185dp</dimen>
+    <dimen name="ui_main_hsv_text_margin_bottom">10dp</dimen>
+    <dimen name="ui_main_hsv_text_size">23sp</dimen>
+    <dimen name="ui_main_navigation_bar_width">108dp</dimen>
+    <dimen name="ui_main_surface_height">276dp</dimen>
+    <dimen name="ui_main_surface_width">490dp</dimen>
+    <dimen name="ui_media_text_item_size">35sp</dimen>
+    <dimen name="ui_near_item_height">185dp</dimen>
+    <dimen name="ui_near_item_text_size">30sp</dimen>
+    <dimen name="ui_near_item_width">278dp</dimen>
+    <dimen name="ui_topbar_height">95dp</dimen>
+    <dimen name="weather_button_update">48dp</dimen>
+    <dimen name="weather_image_more_weather">75dp</dimen>
+    <dimen name="weather_margin_more_info">20dp</dimen>
+    <dimen name="weather_more_info_image_size">25dp</dimen>
+    <dimen name="weather_more_info_text_size">20sp</dimen>
+    <dimen name="weather_text_clock">80sp</dimen>
+    <dimen name="weather_text_date">28sp</dimen>
+    <dimen name="weather_text_location">32sp</dimen>
+    <dimen name="weather_text_more_temp">20sp</dimen>
+    <dimen name="weather_text_more_week">20sp</dimen>
+    <dimen name="weather_text_post_time">20sp</dimen>
+    <dimen name="weather_text_temp_today">105sp</dimen>
+    <dimen name="weather_text_weather">40sp</dimen>
+    <dimen name="weather_text_wind_today">32sp</dimen>
+    <drawable name="layout_backgroud">#000000</drawable>
+    <drawable name="line_background">#161823</drawable>
+    <drawable name="semi_black">#80000000</drawable>
+    <item name="jazzy_key" type="id"/>
+    <item name="selected_view" type="id"/>
+    <string name="app_has_exception">很抱歉录像异常,正在尝试恢复,如黑屏请重启系统</string>
+    <string name="app_name">CarLauncher</string>
+    <string name="default_record_time">00 : 00</string>
+    <string name="hint_device_going_sleep">进入休眠</string>
+    <string name="hint_going_shutdown">系统关机，停止录像</string>
+    <string name="hint_no_network">无网络</string>
+    <string name="hint_not_record">未录像</string>
+    <string name="hint_photo_save">照片已保存</string>
+    <string name="hint_record_start">开始录像</string>
+    <string name="hint_record_stop">停止录像</string>
+    <string name="hint_save_photo_error">图片保存失败</string>
+    <string name="hint_save_video_error">视频保存失败</string>
+    <string name="hint_sd1_not_exist">存储卡一不存在</string>
+    <string name="hint_sd2_format">格式化存储卡，停止录像</string>
+    <string name="hint_sd2_not_exist">存储卡二不存在</string>
+    <string name="hint_sd_remove_badly">存储卡异常，停止录像</string>
+    <string name="hint_start_park_monitor_after_90">九十秒后启动停车守卫</string>
+    <string name="hint_stop_record_power_unconnect">电源断开，停止录像</string>
+    <string name="hint_stop_record_sleeping">正在休眠</string>
+    <string name="hint_storage_full_and_delete_lock">空间不足，将清理加锁视频</string>
+    <string name="hint_storage_full_cause_by_other">空间不足，请清理存储卡2</string>
+    <string name="hint_video_lock">视频加锁</string>
+    <string name="hint_video_mute_off">录音</string>
+    <string name="hint_video_mute_on">静音</string>
+    <string name="hint_video_size_1080">分辨率一零八零P</string>
+    <string name="hint_video_size_720">分辨率七二零P</string>
+    <string name="hint_video_time_1">视频分段一分钟</string>
+    <string name="hint_video_time_3">视频分段三分钟</string>
+    <string name="hint_video_unlock">视频解锁</string>
+    <string name="picture">图片</string>
+    <string name="short_record">REC</string>
+    <string name="title_cloudcenter">云中心</string>
+    <string name="title_clouddialer">云电话</string>
+    <string name="title_cloudpick">一键接人</string>
+    <string name="title_drive_route">行车轨迹</string>
+    <string name="title_ecar_online">翼卡在线</string>
+    <string name="title_edog">电子狗</string>
+    <string name="title_file_manager">文件管理</string>
+    <string name="title_fm_transmit">FM发射</string>
+    <string name="title_message">短信</string>
+    <string name="title_multimedia">多媒体</string>
+    <string name="title_music_online">在线音乐</string>
+    <string name="title_navigation">导航</string>
+    <string name="title_phone">电话</string>
+    <string name="title_setting">设置</string>
+    <string name="title_wechat">微信助手</string>
+    <string name="title_weme">道客</string>
+    <string name="title_ximalaya">网络电台</string>
+    <string name="unknown">未知</string>
+    <string name="video">视频</string>
+    <style name="AppTranslucentTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:actionBarSize">@dimen/setting_item_height</item>
+        <item name="android:actionButtonStyle">@style/FileActionButtonStyle</item>
+    </style>
+    <style name="AppTranslucentThemeForMain" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:actionBarSize">480dp</item>
+        <item name="android:actionButtonStyle">@style/FileActionButtonStyle</item>
+    </style>
+    <style name="CustomActionBarSizeTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarSize">80dp</item>
+    </style>
+    <style name="DialogStyle">
+        <item name="android:windowFrame">@null</item>
+        <!-- 该界面对应的前景图片 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否悬浮窗类型 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 是否透明 -->
+        <item name="android:windowNoTitle">false</item>
+        <!-- 是否带有title -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:colorBackground">@color/black</item>
+    </style>
+    <style name="FileActionButtonStyle" parent="@android:style/Widget.Holo.Light.ActionButton">
+        <item name="android:minWidth">80dip</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+    </style>
+    <style name="MyVolumeDialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="ThemeVolumeDialog" parent="@android:style/Animation.Dialog">
+        <item name="android:width">650dp</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme_RecordDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+</resources>

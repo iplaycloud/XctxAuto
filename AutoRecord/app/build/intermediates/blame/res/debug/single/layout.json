@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_tx2s.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\layout\\activity_main_tx2s.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_hint_float_window.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\layout\\record_hint_float_window.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_flash_clean.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\layout\\dialog_flash_clean.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_audio_record.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\layout\\dialog_audio_record.xml"
+    }
+]

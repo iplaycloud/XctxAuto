@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\AutoRecord\\libuvccamera\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_right_in.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\AutoRecord\\libuvccamera\\build\\intermediates\\exploded-aar\\com.serenegiant\\common\\1.1.9\\res\\animator\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\AutoRecord\\libuvccamera\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_left_in.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\AutoRecord\\libuvccamera\\build\\intermediates\\exploded-aar\\com.serenegiant\\common\\1.1.9\\res\\animator\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\AutoRecord\\libuvccamera\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_right_out.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\AutoRecord\\libuvccamera\\build\\intermediates\\exploded-aar\\com.serenegiant\\common\\1.1.9\\res\\animator\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\Auto\\AndroidStudio\\AutoRecord\\libuvccamera\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_left_out.xml",
+        "source": "F:\\OneDrive\\Auto\\AndroidStudio\\AutoRecord\\libuvccamera\\build\\intermediates\\exploded-aar\\com.serenegiant\\common\\1.1.9\\res\\animator\\card_flip_left_out.xml"
+    }
+]

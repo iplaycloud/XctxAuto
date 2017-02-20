@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_flash_clean_button">#17ddcd</color>
+    <color name="dialog_flash_clean_message">#ffffff</color>
+    <color name="dialog_flash_clean_title">#eeeeee</color>
+    <color name="icon_hint_text_color">#ffffff</color>
+    <string name="app_has_exception">很抱歉录像异常，即将退出</string>
+    <string name="app_name">AutoRecord</string>
+    <string name="default_record_time">00 : 00</string>
+    <string name="dialog_flash_clean_cancel">取消</string>
+    <string name="dialog_flash_clean_confirm">确定</string>
+    <string name="dialog_flash_clean_content">本机存储可用空间低于300 MB，请前去清理！</string>
+    <string name="dialog_flash_clean_title">提示</string>
+    <string name="enable_cancel">暂不开启</string>
+    <string name="enable_confirm">仍然开启</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_back_record_start">开始后录</string>
+    <string name="hint_back_record_stop">停止后录</string>
+    <string name="hint_device_going_sleep">进入休眠</string>
+    <string name="hint_enable_back_in_engineer_mode">请在工程模式激活后录</string>
+    <string name="hint_enable_record_back">开启后录会影响SD卡使用寿命，继续开启吗?</string>
+    <string name="hint_front_record_start">开始前录</string>
+    <string name="hint_front_record_stop">停止前录</string>
+    <string name="hint_going_shutdown">系统关机，停止录像</string>
+    <string name="hint_not_record_back">后置未录像</string>
+    <string name="hint_not_record_front">前置未录像</string>
+    <string name="hint_photo_save">照片已保存</string>
+    <string name="hint_save_photo_error">图片保存失败</string>
+    <string name="hint_save_video_error">视频保存失败</string>
+    <string name="hint_sd2_format">格式化存储卡，停止录像</string>
+    <string name="hint_sd_record_not_exist">录像卡不存在</string>
+    <string name="hint_sd_remove_badly">卸载存储卡，停止录像</string>
+    <string name="hint_start_park_monitor_after_90">九十秒后启动停车守卫</string>
+    <string name="hint_stop_record_power_unconnect">电源断开，停止录像</string>
+    <string name="hint_stop_record_sleeping">正在休眠</string>
+    <string name="hint_storage_full_and_delete_lock">空间不足，将清理加锁视频</string>
+    <string name="hint_storage_full_cause_by_other">空间不足，请清理录像卡</string>
+    <string name="hint_video_lock_back">后录加锁</string>
+    <string name="hint_video_lock_front">前录加锁</string>
+    <string name="hint_video_mute_off">录音</string>
+    <string name="hint_video_mute_on">静音</string>
+    <string name="hint_video_size_1080">分辨率一零八零P</string>
+    <string name="hint_video_size_720">分辨率七二零P</string>
+    <string name="hint_video_time_1">视频分段一分钟</string>
+    <string name="hint_video_time_3">视频分段三分钟</string>
+    <string name="hint_video_unlock_back">后录解锁</string>
+    <string name="hint_video_unlock_front">前录解锁</string>
+    <string name="icon_hint_1080p">1080P</string>
+    <string name="icon_hint_1_minute">1分钟</string>
+    <string name="icon_hint_3_minutes">3分钟</string>
+    <string name="icon_hint_720p">720P</string>
+    <string name="icon_hint_lock">已锁</string>
+    <string name="icon_hint_mute">静音</string>
+    <string name="icon_hint_switch">切换</string>
+    <string name="icon_hint_unlock">未锁</string>
+    <string name="icon_hint_unmute">录音</string>
+    <string name="no_cvbs_detect">请先插入后拉摄像头！</string>
+    <string name="sd_storage_too_low">录像卡需要清理</string>
+    <string name="short_record">REC</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+        -->
+    </style>
+    <style name="Theme_RecordDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

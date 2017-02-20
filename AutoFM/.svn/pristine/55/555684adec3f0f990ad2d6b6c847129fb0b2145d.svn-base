@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "F:/OneDrive/xctx/AutoFM/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"d:\\android-sdk-windows\\cmake\\3.6.3155560\\bin\\cmake.exe --build F:\\OneDrive\\xctx\\AutoFM\\app\\.externalNativeBuild\\cmake\\debug\\mips64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "d:\\android-sdk-windows\\cmake\\3.6.3155560\\bin\\cmake.exe --build F:\\OneDrive\\xctx\\AutoFM\\app\\.externalNativeBuild\\cmake\\debug\\mips64 --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target mips64el-none-linux-android -gcc-toolchain D:/android-sdk-windows/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/android-sdk-windows/ndk-bundle/platforms/android-22/arch-mips64  -Dnative_lib_EXPORTS -isystem D:\\android-sdk-windows\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\android-sdk-windows\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips64\\include -isystem D:\\android-sdk-windows\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/OneDrive/xctx/AutoFM/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "F:/OneDrive/xctx/AutoFM/app/.externalNativeBuild/cmake/debug/mips64"
+				}
+			],
+			"output" : "F:/OneDrive/xctx/AutoFM/app/build/intermediates/cmake/debug/obj/mips64/libnative-lib.so",
+			"toolchain" : "1131277293"
+		}
+	},
+	"toolchains" : 
+	{
+		"1131277293" : 
+		{
+			"cCompilerExecutable" : "D:/android-sdk-windows/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/android-sdk-windows/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

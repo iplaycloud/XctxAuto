@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1140
+                    }
+                }
+            }
+        ]
+    }
+]

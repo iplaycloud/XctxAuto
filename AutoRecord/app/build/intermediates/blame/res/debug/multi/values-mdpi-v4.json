@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\values-mdpi\\dimens_bak.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 35,
+                        "endColumn": 49,
+                        "endOffset": 80
+                    }
+                }
+            }
+        ]
+    }
+]

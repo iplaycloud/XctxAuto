@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:6:5-43
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+	coreApp
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:3:5-19
+	xmlns:android
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:22.2.1] F:\OneDrive\xctx\AutoRecord\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:12:19-57
+uses-permission#android.permission.CAMERA
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:14:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:15:22-81
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:19:22-70
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:21:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.INJECT_EVENTS
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:23:22-69
+application
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:25:5-70:19
+MERGED from [com.android.support:support-v4:22.2.1] F:\OneDrive\xctx\AutoRecord\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:30:9-41
+	android:hardwareAccelerated
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:29:9-45
+	android:largeHeap
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:31:9-33
+	android:persistent
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:32:9-34
+	android:theme
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:33:9-40
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:26:9-50
+activity#com.tchip.autorecord.ui.MainActivity
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:34:9-43:20
+	android:label
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:36:13-45
+	android:launchMode
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:35:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:41:27-74
+receiver#com.tchip.autorecord.receiver.CardEjectReceiver
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:56:9-67:20
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:56:19-81
+intent-filter#android.intent.action.MEDIA_BAD_REMOVAL+android.intent.action.MEDIA_EJECT+android.intent.action.MEDIA_MOUNTED+android.intent.action.MEDIA_NOFS+android.intent.action.MEDIA_REMOVED+android.intent.action.MEDIA_UNMOUNTED
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:57:13-66:29
+	android:priority
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:57:28-57
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:58:17-78
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:58:25-75
+action#android.intent.action.MEDIA_EJECT
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:59:25-73
+action#android.intent.action.MEDIA_BAD_REMOVAL
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:60:17-82
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:60:25-79
+action#android.intent.action.MEDIA_REMOVED
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:61:17-78
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:61:25-75
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:62:17-80
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:62:25-77
+action#android.intent.action.MEDIA_NOFS
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:63:17-75
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:63:25-72
+data
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:65:17-47
+	android:scheme
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:65:23-44
+service#com.tchip.autorecord.service.SensorWatchService
+ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:69:9-83
+	android:name
+		ADDED from F:\OneDrive\xctx\AutoRecord\app\src\main\AndroidManifest.xml:69:18-80

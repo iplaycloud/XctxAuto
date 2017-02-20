@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/setting_bg_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/layoutTop"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/top_bar_height"
+        android:background="@color/setting_title_bg" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/top_bar_title_margin_left"
+            android:text="@string/title_setting"
+            android:textColor="@color/setting_item_title_color"
+            android:textSize="@dimen/main_title_text_size" />
+
+        <LinearLayout
+            android:id="@+id/layoutDate"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical" >
+
+            <TextClock
+                android:id="@+id/textDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:format12Hour="MM月dd日"
+                android:format24Hour="MM月dd日"
+                android:textColor="#8b8e8f"
+                android:textSize="@dimen/main_date_text_size" />
+
+            <TextClock
+                android:id="@+id/textWeek"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:format12Hour="EEEE"
+                android:format24Hour="EEEE"
+                android:textColor="#8b8e8f"
+                android:textSize="@dimen/main_week_text_size" />
+        </LinearLayout>
+
+        <TextClock
+            android:id="@+id/textClock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dp"
+            android:layout_toLeftOf="@id/layoutDate"
+            android:format12Hour="HH:mm"
+            android:format24Hour="HH:mm"
+            android:textColor="@color/setting_item_title_color"
+            android:textSize="@dimen/main_clock_text_size" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/item_height"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/itemDisplay"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true" >
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:contentDescription="@null"
+                            android:src="@drawable/icon_display" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_display"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/itemSound"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true" >
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_sound" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_sound"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/item_height"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/itemWifi"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_wifi" />
+
+                        <TextView
+                            android:id="@+id/textView1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_wifi"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/itemWifiAp"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true"
+                    android:visibility="visible" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_wifi_ap" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_wifi_ap"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/item_height"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/itemDataUsage"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true"
+                    android:visibility="visible" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_datausage" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_traffic_status"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/itemStorage"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true"
+                    android:visibility="visible" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator"
+                        android:visibility="visible" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_usb" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_storage"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/item_height"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/itemCrash"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true"
+                    android:visibility="visible" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_crash" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_crash"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/itemParkMonitor"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:contentDescription="@null"
+                            android:src="@drawable/icon_park_monitor" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_park_monitor"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+
+                        <Switch
+                            android:id="@+id/switchParking"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="@dimen/item_switch_margin_right" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/item_separator_height"
+                android:layout_marginLeft="@dimen/item_separator_margin"
+                android:layout_marginRight="@dimen/item_separator_margin"
+                android:background="@color/setting_item_separator"
+                android:visibility="gone" />
+
+            <RelativeLayout
+                android:id="@+id/itemUsb"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/item_height"
+                android:background="@color/setting_bg_color"
+                android:clickable="true"
+                android:visibility="gone" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                    <ImageView
+                        android:layout_width="@dimen/item_icon_length"
+                        android:layout_height="@dimen/item_icon_length"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/item_icon_margin_left"
+                        android:src="@drawable/icon_usb" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/item_title_margin_left"
+                        android:text="@string/title_usb"
+                        android:textColor="@color/setting_item_title_color"
+                        android:textSize="@dimen/item_title_text_size" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/item_height"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/itemDate"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_date" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_date_time"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/itemReset"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_reset" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_reset"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/item_height"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/itemOTA"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true"
+                    android:visibility="visible" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_ota" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_ota"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/itemAbout"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/item_height"
+                    android:layout_weight="1"
+                    android:background="@color/setting_bg_color"
+                    android:clickable="true"
+                    android:visibility="visible" >
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/item_separator_height"
+                        android:layout_marginLeft="@dimen/item_separator_margin"
+                        android:layout_marginRight="@dimen/item_separator_margin"
+                        android:background="@color/setting_item_separator" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                        <ImageView
+                            android:layout_width="@dimen/item_icon_length"
+                            android:layout_height="@dimen/item_icon_length"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_icon_margin_left"
+                            android:src="@drawable/icon_about" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/item_title_margin_left"
+                            android:text="@string/title_about"
+                            android:textColor="@color/setting_item_title_color"
+                            android:textSize="@dimen/item_title_text_size" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/itemAPN"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/item_height"
+                android:background="@color/setting_bg_color"
+                android:clickable="true"
+                android:visibility="visible" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="?android:attr/selectableItemBackgroundBorderless" >
+
+                    <ImageView
+                        android:layout_width="@dimen/item_icon_length"
+                        android:layout_height="@dimen/item_icon_length"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/item_icon_margin_left"
+                        android:src="@drawable/icon_apn" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/item_title_margin_left"
+                        android:text="@string/title_apn"
+                        android:textColor="@color/setting_item_title_color"
+                        android:textSize="@dimen/item_title_text_size" />
+                </RelativeLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

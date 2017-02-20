@@ -1,0 +1,525 @@
+ToDo List>
+
+其他：视频录制预览界面，预览异常时，默认图片。
+
+==========================================	
+后续>
+	地理位置上报（微信硬件）
+	OTA升级
+	初次打开应用引导
+==========================================
+	
+----------------------------------------------------------------------------	
+打开其他应用	
+	文件管理	com.mediatek.filemanager/.FileManagerOperationActivity
+	图库		com.android.gallery3d/.app.GalleryActivity
+	视频		com.mediatek.videoplayer/.MovieListActivity
+	音乐		com.android.music/.MusicBrowserActivity
+	拨号		com.android.dialer/.DialtactsActivity
+	
+==============================================================================	
+资源文件夹			屏幕分辨率		类型			对应图标尺寸			屏幕密度	dp与px关系
+				2560*1440				192*192				640		1dp=4px
+xxhdpi-			1920*1080				144*144(128*128)	480		1dp=3px
+xhdpi-超高分辨率	1280*720 	WQVGA		96*96 				320		1dp=2px
+hdpi-高分辨率             	480*800 	WVGA		72*72 				240		1dp=1.5px
+mdpi-中等分辨率		480*320		HVGA、VGA	48*48     			160		1dp=1px
+ldpi-低分辨率		320*240		QVGA		36*36				120		1dp=0.75px
+==============================================================================
+SharedPreferences-CarLauncher
+	----------------------------------------
+	[*Using]用户中心
+	(boolean)isUserLogin	是否登录
+	(String)userName	用户名
+	(String)UserPass	密码
+	----------------------------------------
+	[*Using]
+	(boolean)isFirstLaunch 是否初次启动(true)
+	----------------------------------------
+	[*Using]导航
+	(boolean)naviResume	是否有导航需要还原(false)
+	(String)naviLat		导航目的地Latitude
+	(String)naviLng		导航目的地Longitude
+	(String)naviName	导航目的地Name
+	
+	(boolean)homeSet	是否设置家的地址
+	(String)homeAddress 家的地址
+	(String)homeLat		家Lat
+	(String)homeLng		家Lng
+	
+	(boolean)workSet	是否设置公司地址
+	(String)workAddress 公司地址
+	(String)workLat		公司Lat
+	(String)workLng		公司Lng
+
+	----------------------------------------
+	[*Not Use] China Weather
+	(Long)cityCode		中国天气网城市代码(格式：9位数字)
+	(String)tempHigh	当日最高温度
+	(String)tempLow		当日最低温度
+	(String)weather		天气(格式：中文字段)
+	(String)postTime	天气数据发布时间
+	(String)tempNow		即时温度
+	(String)windDir		风向
+	(String)windSpeed	风速
+	(String)wetLevel	湿度 
+	----------------------------------------
+	[*Using]Baidu LBS
+	(String)cityName	城市名(格式：中山市)
+	(String)latitude	纬度
+	(String)longitude	经度
+	(String)altitude	海拔(格式：78.0)
+	(String)addrStr		当前位置(格式：广东省中山市中山市市辖区紫竹横街11号)
+	(String)lbsTime		位置更新时间(格式：2015-05-11	21:19:28)
+	(String)street		街道(格式：紫竹横街)
+	(Float)speed		速度(格式：0.0)
+	(String)district	区域(格式：中山市市辖区)
+	(String)streetNum	街道号(格式：11号)
+	
+	----------------------------------------
+	[*Using]Xunfei Voice 
+	(String)voiceAccent	口音
+	(String)voiceBos	语音前端点
+	(String)voiceEos	语音后端点
+	(String)voicePath	音频保存路径
+	
+	----------------------------------------
+	[*Using]Xunfei Voice Weather
+	(String)postTime		天气发布时间
+	(String)day'i'weather	天气('i'=0，1，2，3，4，5)
+	(String)day'i'tmpHigh	最高气温
+	(String)day'i'tmpLow	最低气温
+	(String)day'i'wind		风向和风速
+	(String)airQuality		空气质量
+	(String)day'i'date		日期(格式：2015-05-05)
+	(String)humidity		湿度
+	
+	----------------------------------------
+	[*Using]Setting
+	(boolean)autoRecord		开机自动录像()
+	(String)videoQuality	视频质量(LOW-MIDDLE-*HIGH)
+	(String)videoSize		视频尺寸(*720-1080)
+	(String)videoTime		视频长度(1-*3)
+	(int)crashSensitive	碰撞侦测灵敏度(3,4,*5,6,7,8,9)
+	(boolean)crashOn		碰撞侦测开关(*false-true)
+	(boolean)videoVoice		是否录制声音
+	
+	(boolean)voiceSpeakHour	整点语音报时(*false-true)
+	(String)voiceAccent		语音口音(*Mandarin-English-Cantonese)
+	(boolean)voiceSpeakWeather	天气自动播报(false-*true)
+	(boolean)voiceUpdateWeather	天气数据自动更新(false-*true)
+	
+	(boolean)routeRecord	行车轨迹记录(false-*true)
+	(boolean)routeSmooth	轨迹平滑度优化(false-*true)
+	(String)routeSpan		轨迹绘制取样精度((LOW-MIDDLE-*HIGH))
+	(String)defaultNavi		默认导航(*BAIDU-GAODE)
+	
+	(boolean)brightAdjust	夜间自动开启护眼模式
+	(boolean)autoScreenLight	根据Camera调节亮度开关(true)
+	(int)manulLightValue	手动亮度值，用以自动调节亮度关闭时重设背光值
+	
+	(boolean)parkingOn		停车侦测开关(false)
+	
+	----------------------------------------
+	[*Using]Music
+	(String)rencentMusicList		最近（或正在）播放
+	
+	----------------------------------------
+	[*Using]Video Record
+	(String)sdcardPath		SD卡路径(如：/mnt/sdcard/)
+	----------------------------------------
+	WeatherType：晴，多云，阴，阵雨
+	
+	[*Sleep Receiver]
+	(Boolean)fmStateBeforeSleep	FM发射在深度休眠前的状态(true)
+	(int)volumeMusic	休眠前的媒体音量
+	(int)volumeRing		休眠前的铃声音量
+
+============================================================================
+	*进程间进行数据共享
+		1.在Service上写个Binder，让另外一个应用使用aidl进行使用
+		2.使用ContentProvider
+		3.两个应用都使用SharedPreference的MODE_WORLD_WRITEABLE或MODE_WORLD_READABLE（Not OK）
+		4.修改两个应用的android:sharedUserId相同，然后：
+			try {  
+	    		mContext = createPackageContext("com.tchip.carlauncher", CONTEXT_IGNORE_SECURITY);  
+			} catch (NameNotFoundException e) {  
+	    		// TODO Auto-generated catch block  
+	    		e.printStackTrace();  
+			}  
+			SharedPreferences mShare = mContext.getSharedPreferences("test_share", Context.MODE_WORLD_READABLE); 
+
+============================================================================
+讯飞语义理解类型(service)
+	*openQA		问答
+	*datetime	时间
+	*weather	天气
+	*telephone	拨号
+	*map		地图（导航）
+	*baike		百科
+	*chat
+	*app		应用	(打开："operation": "LAUNCH")
+	*message	短信(发送 SEND)
+	*telephone	拨号(拨打 CALL)
+	
+============================================================================
+[ToDo]
+	[功能]
+		* 语音助手播放音乐
+		* 导航：高德接口
+		* FM
+		* 选择口音时，要跳转到讯飞+界面，或者利用讯飞的接口（如果存在）
+		* 离线地图
+		
+	[后续]
+		* 微信硬件
+		* 文件共享到手机
+		* 无线热点AP（固定密码）
+		* 蓝牙读取手机通讯录
+		* 测速测距（里程，瞬时速度，平均速度，油耗）
+		* 电子狗
+		* 精简系统非必要应用
+		
+	[Bug List]
+		- 天气界面设置背景概率性OOM:后期调整图片尺寸
+			
+============================================================================
+
+// SETTINGS 设置主界面
+				// WIRELESS_SETTINGS 更多网络
+				// WIFI_DISPLAY_SETTINGS
+				// LOCALE_SETTINGS 语言设置
+				// INPUT_METHOD_SETTINGS
+				// INPUT_METHOD_SUBTYPE_SETTINGS
+				// USER_DICTIONARY_SETTINGS
+				// DISPLAY_SETTINGS
+				// SAFETY
+				// SECURITY_SETTINGS
+				// APPLICATION_SETTINGS
+				// MANAGE_ALL_APPLICATIONS_SETTINGS
+				// MANAGE_PACKAGE_STORAGE
+				// PRIVACY_SETTINGS
+				// BACKUP_AND_RESET_SETTINGS
+				// ACCESSIBILITY_SETTINGS
+				// QUICK_LAUNCH_SETTINGS
+				// APPLICATION_DEVELOPMENT_SETTINGS
+				// STORAGE_USB_SETTINGS
+				// POWER_USAGE_SUMMARY
+				// ACCOUNT_SYNC_SETTINGS
+				// SYNC_SETTINGS
+				// USER_SETTINGS
+				// SIM_MANAGEMENT_ACTIVITY
+				// SIM_LIST_ENTRANCE_ACTIVITY
+				// PICK_WIFI_NETWORK
+				
+============================================================================
+					
+// 介绍：http://blog.csdn.net/qq43599939/article/details/12278641/
+// http://goodbai.com/web/UseForecastAndPMDataAPI.html
+
+- 全部信息 http://m.weather.com.cn/data/101050101.html
++ 简洁信息 http://www.weather.com.cn/data/sk/101010100.html
++ 简洁信息 http://www.weather.com.cn/data/cityinfo/101010100.html
+- 城市图片 http://poster.weather.com.cn/p_files/base/101281701.jpg
+
+
+Face Detect JSON：
+============================================================================
+{
+    "face": [
+        {
+            "attribute": {
+                "age": {
+                    "range": 7,
+                    "value": 36
+                },
+                "gender": {
+                    "confidence": 95.123,
+                    "value": "Male"
+                },
+                "race": {
+                    "confidence": 99.9665,
+                    "value": "White"
+                },
+                "smiling": {
+                    "value": 89.8616
+                }
+            },
+            "face_id": "d61d826fe8351318ce1d39971903f97d",
+            "position": {
+                "center": {
+                    "x": 60.632689,
+                    "y": 28.4375
+                },
+                "eye_left": {
+                    "x": 59.553603,
+                    "y": 27.393906
+                },
+                "eye_right": {
+                    "x": 61.325659,
+                    "y": 26.581063
+                },
+                "height": 7.5,
+                "mouth_left": {
+                    "x": 60.100703,
+                    "y": 30.607094
+                },
+                "mouth_right": {
+                    "x": 61.867663,
+                    "y": 29.945312
+                },
+                "nose": {
+                    "x": 60.369596,
+                    "y": 28.595719
+                },
+                "width": 4.217926
+            },
+            "tag": ""
+        },
+        {
+            "attribute": {
+                "age": {
+                    "range": 7,
+                    "value": 21
+                },
+                "gender": {
+                    "confidence": 78.0741,
+                    "value": "Female"
+                },
+                "race": {
+                    "confidence": 57.2442,
+                    "value": "White"
+                },
+                "smiling": {
+                    "value": 15.7552
+                }
+            },
+            "face_id": "778e37e644347fd9b9e0099a6c49e68b",
+            "position": {
+                "center": {
+                    "x": 45.518453,
+                    "y": 28.125
+                },
+                "eye_left": {
+                    "x": 44.660105,
+                    "y": 26.123312
+                },
+                "eye_right": {
+                    "x": 46.51529,
+                    "y": 26.718187
+                },
+                "height": 7.5,
+                "mouth_left": {
+                    "x": 44.474165,
+                    "y": 29.766938
+                },
+                "mouth_right": {
+                    "x": 45.906327,
+                    "y": 30.318563
+                },
+                "nose": {
+                    "x": 45.734095,
+                    "y": 28.365281
+                },
+                "width": 4.217926
+            },
+            "tag": ""
+        }
+    ],
+    "img_height": 320,
+    "img_id": "2c384e5cfe4cafdfca168b8b2c210521",
+    "img_width": 569,
+    "session_id": "69fdd4833d9049558fb86aba4bc9fb0e",
+    "url": null,
+    "response_code": 200
+}
+============================================================================
+
+//定义天气类型 
+var weatherArr={
+"00":"晴",
+"01":"多云",
+"02":"阴",
+"03":"阵雨",
+"04":"雷阵雨",
+"05":"雷阵雨伴有冰雹",
+"06":"雨夹雪",
+"07":"小雨",
+"08":"中雨",
+"09":"大雨",
+"10":"暴雨",
+"11":"大暴雨",
+"12":"特大暴雨",
+"13":"阵雪",
+"14":"小雪",
+"15":"中雪",
+"16":"大雪",
+"17":"暴雪",
+"18":"雾",
+"19":"冻雨",
+"20":"沙尘暴",
+"21":"小到中雨",
+"22":"中到大雨",
+"23":"大到暴雨",
+"24":"暴雨到大暴雨",
+"25":"大暴雨到特大暴雨",
+"26":"小到中雪",
+"27":"中到大雪",
+"28":"大到暴雪",
+"29":"浮尘",
+"30":"扬沙",
+"31":"强沙尘暴",
+"53":"霾",
+"99":""
+}; 
+
+//定义风向数组 
+var fxArr={
+"0":"无持续风向","1":"东北风","2":"东风","3":"东南风","4":"南风",
+"5":"西南风","6":"西风","7":"西北风","8":"北风","9":"旋转风"
+}; 
+
+//定义风力数组 
+var flArr={
+"0":"微风","1":"3-4级","2":"4-5级","3":"5-6级","4":"6-7级",
+"5":"7-8级","6":"8-9级","7":"9-10级","8":"10-11级","9":"11-12级"
+};
+
+
+============================================================================
+
+private int getLogo(int brand) {
+		switch (brand) {
+		case 0: // 设置品牌
+			return R.drawable.set_logo;
+		case 1: // 奥迪
+			return R.drawable.logo_audi;
+		case 2: // 宝骏
+			return R.drawable.logo_baojun;
+		case 3: // 宝马
+			return R.drawable.logo_bmw;
+		case 4: // 保时捷
+			return R.drawable.logo_porsche;
+		case 5: // 北汽
+			return R.drawable.logo_beiqi;
+		case 6: // 奔驰
+			return R.drawable.logo_benz;
+		case 7: // 本田
+			return R.drawable.logo_honda;
+		case 8: // 标致
+			return R.drawable.logo_peugeot;
+		case 9: // 比亚迪
+			return R.drawable.logo_byd;
+		case 10: // 别克
+			return R.drawable.logo_buick;
+		case 11: // 宾利
+			return R.drawable.logo_bently;
+		case 12: // 长安
+			return R.drawable.logo_changan;
+		case 13: // 长城
+			return R.drawable.logo_changcheng;
+		case 14: // 昌河
+			return R.drawable.logo_changhe;
+		case 15: // 传祺
+			return R.drawable.logo_chuanqi;
+		case 16: // 道奇
+			return R.drawable.logo_dodge;
+		case 17: // 大众
+			return R.drawable.logo_das;
+		case 18: // 帝豪
+			return R.drawable.logo_dihao;
+		case 19: // 东风
+			return R.drawable.logo_dongfeng;
+		case 20: // 东南
+			return R.drawable.logo_dongnan;
+		case 21: // 法拉利
+			return R.drawable.logo_farrari;
+		case 22: // 菲亚特
+			return R.drawable.logo_fiat;
+		case 23: // 丰田
+			return R.drawable.logo_toyota;
+		case 24: // 福特
+			return R.drawable.logo_ford;
+		case 25: // 海马
+			return R.drawable.logo_haima;
+		case 26: // 红旗
+			return R.drawable.logo_hongqi;
+		case 27: // 捷豹
+			return R.drawable.logo_jaguar;
+		case 28: // 吉利
+			return R.drawable.logo_geely;
+		case 29: // 江淮
+			return R.drawable.logo_jac;
+		case 30: // 吉普
+			return R.drawable.logo_jeep;
+		case 31: // 凯迪拉克
+			return R.drawable.logo_cadillac;
+		case 32: // 兰博基尼
+			return R.drawable.logo_lamborghini;
+		case 33: // 雷克萨斯
+			return R.drawable.logo_lexus;
+		case 34: // 雷诺
+			return R.drawable.logo_renault;
+		case 35: // 铃木
+			return R.drawable.logo_suzuki;
+		case 36: // 林肯
+			return R.drawable.logo_lincoln;
+		case 37: // 陆风
+			return R.drawable.logo_lufeng;
+		case 38: // 路虎
+			return R.drawable.logo_landrover;
+		case 39: // 迈巴赫
+			return R.drawable.logo_maybach;
+		case 40: // 玛莎拉蒂
+			return R.drawable.logo_maserati;
+		case 41: // 马自达
+			return R.drawable.logo_mazda;
+		case 42: // 纳智捷
+			return R.drawable.logo_luxgen;
+		case 43: // 讴歌
+			return R.drawable.logo_acura;
+		case 44: // 启辰
+			return R.drawable.logo_qichen;
+		case 45: // 奇瑞
+			return R.drawable.logo_chery;
+		case 46: // 起亚
+			return R.drawable.logo_kia;
+		case 47: // 日产
+			return R.drawable.logo_nissan;
+		case 48: // 荣威
+			return R.drawable.logo_roewe;
+		case 49: // 萨博
+			return R.drawable.logo_saab;
+		case 50: // 三菱
+			return R.drawable.logo_mitsubishi;
+		case 51: // 上汽
+			return R.drawable.logo_saic;
+		case 52: // 斯巴鲁
+			return R.drawable.logo_subaru;
+		case 53: // 斯柯达
+			return R.drawable.logo_skoda;
+		case 54: // 特斯拉
+			return R.drawable.logo_tesla;
+		case 55: // 沃尔沃
+			return R.drawable.logo_volvo;
+		case 56: // 五菱
+			return R.drawable.logo_wuling;
+		case 57: // 现代
+			return R.drawable.logo_hyundai;
+		case 58: // 雪佛兰
+			return R.drawable.logo_chevrolet;
+		case 59: // 雪铁龙
+			return R.drawable.logo_citroen;
+		case 60: // 英菲尼迪
+			return R.drawable.logo_infiniti;
+		case 61: // 中华
+			return R.drawable.logo_zhonghua;
+		case 62: // 众泰
+			return R.drawable.logo_zhongtai;
+		default: // 设置品牌
+			return R.drawable.set_logo;
+		}
+	}
+	
+	 // 360天气（Unicode编码，需要解码汉字）
+http://cdn.weather.hao.360.cn/api_weather_info.php?app=hao360&_jsonp=smartloaddata101281701&code=101281701

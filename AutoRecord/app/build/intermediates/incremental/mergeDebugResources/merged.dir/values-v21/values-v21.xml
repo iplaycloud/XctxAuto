@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 21 theme customizations can go here. -->
+    </style>
+    <style name="AppTheme" parent="android:Theme.Material">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <!-- 允许使用transitions -->
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowBackground">@drawable/splash_bg_3</item>
+
+        <!-- 指定进入和退出transitions -->
+        <item name="android:windowEnterTransition">@android:transition/explode</item>
+        <item name="android:windowExitTransition">@android:transition/explode</item>
+
+        <!-- 指定shared element transitions -->
+        <item name="android:windowSharedElementEnterTransition">@android:transition/fade</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/fade</item>
+    </style>
+    <style name="MainTheme" parent="AppTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+    <style name="ThemeFlashCleanDialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#424242</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>

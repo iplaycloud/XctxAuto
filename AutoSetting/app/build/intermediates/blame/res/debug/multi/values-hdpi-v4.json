@@ -1,0 +1,904 @@
+[
+    {
+        "outputFile": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2455,
+                        "endColumn": 58,
+                        "endOffset": 2509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 58,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2514,
+                        "endColumn": 58,
+                        "endOffset": 2568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 62,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2639,
+                        "endColumn": 62,
+                        "endOffset": 2697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 54,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2702,
+                        "endColumn": 54,
+                        "endOffset": 2752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 65,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2573,
+                        "endColumn": 65,
+                        "endOffset": 2634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 42,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 42,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 47,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 47,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 52,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 52,
+                        "endOffset": 1550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 51,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 51,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 51,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endColumn": 51,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 55,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 55,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 53,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 53,
+                        "endOffset": 1604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 51,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1609,
+                        "endColumn": 51,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 47,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2226,
+                        "endColumn": 47,
+                        "endOffset": 2269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 50,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2274,
+                        "endColumn": 50,
+                        "endOffset": 2320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 55,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2377,
+                        "endColumn": 55,
+                        "endOffset": 2428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 922,
+                    "endColumn": 47,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2178,
+                        "endColumn": 47,
+                        "endOffset": 2221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 51,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2325,
+                        "endColumn": 51,
+                        "endOffset": 2372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1022,
+                    "endColumn": 51,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 51,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 50,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 50,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endColumn": 51,
+                    "endOffset": 1172
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1082,
+                        "endColumn": 51,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1177,
+                    "endColumn": 50,
+                    "endOffset": 1223
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1237,
+                        "endColumn": 50,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1228,
+                    "endColumn": 70,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 70,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 62,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 62,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 60,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 60,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 61,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 61,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 56,
+                    "endOffset": 1537
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 56,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1542,
+                    "endColumn": 60,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 60,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 76,
+                    "endOffset": 1675
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 76,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1680,
+                    "endColumn": 69,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 69,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 69,
+                    "endOffset": 1815
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 69,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1820,
+                    "endColumn": 59,
+                    "endOffset": 1875
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 59,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1880,
+                    "endColumn": 54,
+                    "endOffset": 1930
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 54,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1935,
+                    "endColumn": 58,
+                    "endOffset": 1989
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 58,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1994,
+                    "endColumn": 57,
+                    "endOffset": 2047
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 44,
+                        "endColumn": 57,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2052,
+                    "endColumn": 70,
+                    "endOffset": 2118
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 70,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2123,
+                    "endColumn": 64,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1802,
+                        "endColumn": 64,
+                        "endOffset": 1862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2188,
+                    "endColumn": 65,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1867,
+                        "endColumn": 65,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2254,
+                    "endColumn": 62,
+                    "endOffset": 2312
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1739,
+                        "endColumn": 62,
+                        "endOffset": 1797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2317,
+                    "endColumn": 45,
+                    "endOffset": 2358
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 960,
+                        "endColumn": 45,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2363,
+                    "endColumn": 56,
+                    "endOffset": 2415
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 56,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2420,
+                    "endColumn": 47,
+                    "endOffset": 2463
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 47,
+                        "endOffset": 1976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2468,
+                    "endColumn": 51,
+                    "endOffset": 2515
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2054,
+                        "endColumn": 51,
+                        "endOffset": 2101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2520,
+                    "endColumn": 51,
+                    "endOffset": 2567
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2106,
+                        "endColumn": 51,
+                        "endOffset": 2153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2572,
+                    "endColumn": 51,
+                    "endOffset": 2619
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2002,
+                        "endColumn": 51,
+                        "endOffset": 2049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2624,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 3558
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3563,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4060
+                },
+                "from": {
+                    "file": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\values-hdpi\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1016,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1513
+                    }
+                }
+            }
+        ]
+    }
+]

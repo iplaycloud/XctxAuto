@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/quick_setting_total_width"
+    android:layout_height="@dimen/quick_setting_total_height"
+    android:background="@drawable/quick_setting_bg" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/quick_setting_layout_switch_margin_top"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:layout_width="@dimen/quick_setting_icon_area_wdith"
+                android:layout_height="@dimen/quick_setting_icon_area_height"
+                android:layout_marginRight="@dimen/quick_setting_icon_margin" >
+
+                <ImageView
+                    android:id="@+id/imageWifi"
+                    android:layout_width="@dimen/quick_setting_icon_edge_length"
+                    android:layout_height="@dimen/quick_setting_icon_edge_length"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_icon_margin_top"
+                    android:background="?android:attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@null"
+                    android:src="@drawable/quick_setting_wifi_on" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/imageWifi"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_text_margin_top"
+                    android:gravity="center_horizontal"
+                    android:text="@string/quick_setting_text_wlan"
+                    android:textColor="@color/quick_setting_text_color"
+                    android:textSize="@dimen/quick_setting_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/quick_setting_icon_area_wdith"
+                android:layout_height="@dimen/quick_setting_icon_area_height"
+                android:layout_marginRight="@dimen/quick_setting_icon_margin"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/imageData"
+                    android:layout_width="@dimen/quick_setting_icon_edge_length"
+                    android:layout_height="@dimen/quick_setting_icon_edge_length"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_icon_margin_top"
+                    android:background="?android:attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@null"
+                    android:src="@drawable/quick_setting_data_off" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/imageData"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_text_margin_top"
+                    android:gravity="center_horizontal"
+                    android:text="@string/quick_setting_text_data"
+                    android:textColor="@color/quick_setting_text_color"
+                    android:textSize="@dimen/quick_setting_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/quick_setting_icon_area_wdith"
+                android:layout_height="@dimen/quick_setting_icon_area_height"
+                android:layout_marginRight="@dimen/quick_setting_icon_margin" >
+
+                <ImageView
+                    android:id="@+id/imageBluetooth"
+                    android:layout_width="@dimen/quick_setting_icon_edge_length"
+                    android:layout_height="@dimen/quick_setting_icon_edge_length"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_icon_margin_top"
+                    android:background="?android:attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@null"
+                    android:src="@drawable/quick_setting_bluetooth_on" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/imageBluetooth"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_text_margin_top"
+                    android:gravity="center_horizontal"
+                    android:text="@string/quick_setting_text_bluetooth"
+                    android:textColor="@color/quick_setting_text_color"
+                    android:textSize="@dimen/quick_setting_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/quick_setting_icon_area_wdith"
+                android:layout_height="@dimen/quick_setting_icon_area_height"
+                android:layout_marginRight="@dimen/quick_setting_icon_margin" >
+
+                <ImageView
+                    android:id="@+id/imageLocation"
+                    android:layout_width="@dimen/quick_setting_icon_edge_length"
+                    android:layout_height="@dimen/quick_setting_icon_edge_length"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_icon_margin_top"
+                    android:background="?android:attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@null"
+                    android:src="@drawable/quick_setting_gps_on" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/imageLocation"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_text_margin_top"
+                    android:gravity="center_horizontal"
+                    android:text="@string/quick_setting_text_gps"
+                    android:textColor="@color/quick_setting_text_color"
+                    android:textSize="@dimen/quick_setting_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/quick_setting_icon_area_wdith"
+                android:layout_height="@dimen/quick_setting_icon_area_height"
+                android:layout_marginRight="@dimen/quick_setting_icon_margin" >
+
+                <ImageView
+                    android:id="@+id/imageAirplane"
+                    android:layout_width="@dimen/quick_setting_icon_edge_length"
+                    android:layout_height="@dimen/quick_setting_icon_edge_length"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_icon_margin_top"
+                    android:background="?android:attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@null"
+                    android:src="@drawable/quick_setting_airplane_off" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/imageAirplane"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/quick_setting_text_margin_top"
+                    android:gravity="center_horizontal"
+                    android:text="@string/quick_setting_text_airplane"
+                    android:textColor="@color/quick_setting_text_color"
+                    android:textSize="@dimen/quick_setting_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/quick_setting_icon_area_wdith"
+                android:layout_height="@dimen/quick_setting_icon_area_height"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:layout_width="@dimen/quick_setting_icon_edge_length"
+                    android:layout_height="@dimen/quick_setting_icon_edge_length"
+                    android:layout_centerInParent="true"
+                    android:background="?android:attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@null"
+                    android:src="@drawable/ic_launcher" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutBright"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/quick_setting_seekbar_icon_margin_left"
+            android:layout_marginRight="@dimen/quick_setting_seekbar_icon_margin_left"
+            android:layout_marginTop="@dimen/quick_setting_bright_seekbar_margin_top" >
+
+            <ImageView
+                android:id="@+id/imageBrightness"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:contentDescription="@null"
+                android:src="@drawable/quick_setting_brightness" />
+
+            <SeekBar
+                android:id="@+id/seekBarBright"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="5dp"
+                android:layout_toRightOf="@id/imageBrightness"
+                android:max="250" />
+            
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/quick_setting_seekbar_icon_margin_left"
+            android:layout_marginRight="@dimen/quick_setting_seekbar_icon_margin_left"
+            android:layout_marginTop="@dimen/quick_setting_volume_seekbar_margin_top" >
+
+            <ImageView
+                android:id="@+id/imageVolumeIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:contentDescription="@null"
+                android:src="@drawable/quick_setting_volume" />
+
+            <SeekBar
+                android:id="@+id/seekBarVolume"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="5dp"
+                android:layout_toRightOf="@id/imageVolumeIcon"
+                android:max="15" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageSetting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="22dp"
+        android:layout_marginTop="20dp"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
+        android:contentDescription="@null"
+        android:src="@drawable/quick_setting_main_shortcut" />
+
+</RelativeLayout>

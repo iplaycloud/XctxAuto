@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Quick Setting -->
+    <dimen name="quick_setting_total_width">600dp</dimen>
+    <dimen name="quick_setting_total_height">256dp</dimen>
+    <dimen name="quick_setting_icon_edge_length">56dp</dimen>
+    <dimen name="quick_setting_icon_area_wdith">80dp</dimen>
+    <dimen name="quick_setting_icon_area_height">110dp</dimen>
+    <dimen name="quick_setting_text_margin_top">8dp</dimen>
+    <dimen name="quick_setting_text_size">15sp</dimen>
+    <dimen name="quick_setting_icon_margin">20dp</dimen>
+    <dimen name="quick_setting_icon_margin_top">12dp</dimen>
+    <dimen name="quick_setting_layout_switch_margin_top">10dp</dimen>
+    <dimen name="quick_setting_layout_switch_margin_left_right">25dp</dimen>
+    <dimen name="quick_setting_bright_seekbar_margin_top">16dp</dimen>
+    <dimen name="quick_setting_volume_seekbar_margin_top">22dp</dimen>
+    <dimen name="quick_setting_seekbar_icon_margin_left">64dp</dimen>
+
+    <!-- TopBar -->
+    <dimen name="top_bar_height">46dp</dimen>
+    <dimen name="top_bar_title_margin_left">28dp</dimen>
+
+    <!-- Main -->
+    <dimen name="main_title_text_size">20sp</dimen>
+    <dimen name="main_clock_text_size">35sp</dimen>
+    <dimen name="main_date_text_size">12sp</dimen>
+    <dimen name="main_week_text_size">12sp</dimen>
+
+    <!-- Item -->
+    <dimen name="item_separator_height">1dp</dimen>
+    <dimen name="item_separator_margin">8dp</dimen>
+    <dimen name="item_height">56dp</dimen>
+    <dimen name="item_icon_length">26dp</dimen>
+    <dimen name="item_icon_margin_left">25dp</dimen>
+    <dimen name="item_title_margin_left">70dp</dimen>
+    <dimen name="item_title_text_size">18sp</dimen>
+    <dimen name="item_switch_margin_right">30dp</dimen>
+
+    <!-- Display -->
+    <dimen name="setting_system_bright_text_size">25sp</dimen>
+    <dimen name="setting_system_bright_item_height">60dp</dimen>
+    <dimen name="setting_system_bright_radio_margin">15dp</dimen>
+    <dimen name="ui_topbar_height">95dp</dimen>
+
+    <!-- Volume -->
+    <dimen name="volume_dialog_width">650dp</dimen>
+    <dimen name="volume_dialog_height">60dp</dimen>
+    <dimen name="volume_dialog_margin">10dp</dimen>
+
+    <!-- Magic -->
+    <dimen name="magic_btn_width">195dp</dimen>
+    <dimen name="magic_btn_height">60dp</dimen>
+    <dimen name="magic_btn_text_size">25sp</dimen>
+    <dimen name="magic_btn_width_half">95dp</dimen>
+    <dimen name="magic_btn_text_size_half">12sp</dimen>
+
+    <!-- Gravity -->
+    <dimen name="gravity_hint_main_text_size">22sp</dimen>
+    <dimen name="gravity_hint_vice_text_size">20sp</dimen>
+    <dimen name="gravity_seekbar_margin_left_right">100dp</dimen>
+    <dimen name="gravity_level_margin_left_right">90dp</dimen>
+    <dimen name="gravity_level_text_size">20sp</dimen>
+
+</resources>

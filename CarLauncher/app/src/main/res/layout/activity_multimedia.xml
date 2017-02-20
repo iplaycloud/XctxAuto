@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layoutTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:background="#383838" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ui_setting_top_bar_bg"
+            android:gravity="center_vertical"
+            android:hint="@string/title_multimedia"
+            android:paddingLeft="20dp"
+            android:singleLine="true"
+            android:textColor="#dddddd"
+            android:textColorHint="#cccccc"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/imageVideo"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/ui_multimedia_video" />
+
+        <TextView
+            android:id="@+id/textVideo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/imageVideo"
+            android:layout_alignRight="@id/imageVideo"
+            android:layout_below="@id/imageVideo"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/video"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/ui_media_text_item_size" />
+
+        <ImageView
+            android:id="@+id/imageGallery"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="90dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/ui_multimedia_image" />
+
+        <TextView
+            android:id="@+id/textGallery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/imageGallery"
+            android:layout_alignRight="@id/imageGallery"
+            android:layout_below="@id/imageGallery"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/picture"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/ui_media_text_item_size" />
+    </RelativeLayout>
+
+</LinearLayout>

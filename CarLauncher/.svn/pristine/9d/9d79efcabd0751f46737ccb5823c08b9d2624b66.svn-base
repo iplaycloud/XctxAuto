@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_window.xml",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\layout\\float_window.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_audio_record.xml",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\layout\\dialog_audio_record.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multimedia.xml",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\layout\\activity_multimedia.xml"
+    }
+]

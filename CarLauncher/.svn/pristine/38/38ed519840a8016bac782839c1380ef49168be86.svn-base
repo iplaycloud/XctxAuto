@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\libs\jheader-0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="049a82b8f80591636ddc396e1bd661eb566f8e36">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\2\jheader-0.1_f8472f630dd8d16c3211e9651194027aaa08cc03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae18981ce84c2bf7e63a1c60f7166c715d3374">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_340be1a2968d66ea518390b43ed4601adadc32e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_2f5c0c58b3728cfa4705f2645f4988eb4a0239ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\OneDrive\xctx\CarLauncher\app\libs\kwmusic-autosdk-v1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="366cf8ac941fa17c1c2958aa8cd077ade8864dc0">
+        <dex dex="F:\OneDrive\xctx\CarLauncher\app\build\intermediates\pre-dexed\debug\kwmusic-autosdk-v1.2_f21002f53b5aa92eaf3557bba7c18154ec1b9730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\OneDrive\xctx\CarLauncher\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_2f5c0c58b3728cfa4705f2645f4988eb4a0239ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a8f983541013d46b986033e0322a0ad10497fac">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5426c559c28cd73b9d7fde9f54af453dff2ec44e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\libs\kwmusic-autosdk-v1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="366cf8ac941fa17c1c2958aa8cd077ade8864dc0">
+        <dex dex="F:\OneDrive\Auto\AndroidStudio\CarLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\2\kwmusic-autosdk-v1.2_2d630f17df7802e780586936dd0a8356960dcf62\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\OneDrive\xctx\CarLauncher\app\libs\jheader-0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="049a82b8f80591636ddc396e1bd661eb566f8e36">
+        <dex dex="F:\OneDrive\xctx\CarLauncher\app\build\intermediates\pre-dexed\debug\jheader-0.1_706883b40f899e1e03068da44619b07695a0b633.jar" />
+    </item>
+
+</items>

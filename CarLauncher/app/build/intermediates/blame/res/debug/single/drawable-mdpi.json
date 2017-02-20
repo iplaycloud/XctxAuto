@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_4g.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_4g.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_wifi_off.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_wifi_off.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_clouddialer_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_clouddialer_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_wifi_full_2.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_wifi_full_2.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_multimedia_image_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_multimedia_image_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_weather_bg.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_weather_bg.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_switch_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_switch_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_cloudpick_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_cloudpick_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_bluetooth_off.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_bluetooth_off.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_dialog_audio_record_bg.9.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\icon_dialog_audio_record_bg.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_null.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_null.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_filemanager_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_filemanager_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_wifi_full_1.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_wifi_full_1.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_wifi_no_network.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_wifi_no_network.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_fm_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_fm_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_0.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_0.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_size_720_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_size_720_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_video_lock.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_video_lock.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_wifi_full_4.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_wifi_full_4.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_location_off.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_location_off.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_cloudpick_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_cloudpick_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_1.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_1.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_daoke_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_daoke_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_time_3_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_time_3_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_musicol_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_musicol_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_lock_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_lock_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_navi_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_navi_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_ykzx_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_ykzx_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_time_3_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_time_3_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_3.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_3.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_time_1_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_time_1_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_h.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_h.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_message_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_message_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_size_720_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_size_720_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\input_background.9.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\input_background.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_cloudcenter_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_cloudcenter_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_g.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_g.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_location_on.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_location_on.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_multimedia_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_multimedia_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_lock_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_lock_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_route_track_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_route_track_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_filemanager_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_filemanager_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_multimedia_image_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_multimedia_image_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_h_plus.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_h_plus.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_bluetooth_disable.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_bluetooth_disable.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_multimedia_video_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_multimedia_video_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_hsv_shadow_right.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_hsv_shadow_right.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_no_signal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_no_signal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_wechat_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_wechat_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_multimedia_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_multimedia_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_message_bubble.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_message_bubble.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_lock_normal_small.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_lock_normal_small.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_dialer_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_dialer_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_daoke_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_daoke_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_setting_item_bg_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_setting_item_bg_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_fmol_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_fmol_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_shoot_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_shoot_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_bluetooth_not_connected.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_bluetooth_not_connected.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dialog_background.9.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\dialog_background.9.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_time_1_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_time_1_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_1x.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_1x.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_size_1080_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_size_1080_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_route_track_shadow_vertical.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_route_track_shadow_vertical.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_airplane_on.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_airplane_on.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_unlock_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_unlock_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_wechat_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_wechat_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_fmol_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_fmol_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_video_recording_1.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_video_recording_1.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_shoot_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_shoot_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_3g.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_3g.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_text_bg.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_text_bg.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_4.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_4.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_dialog_warning.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_dialog_warning.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_video_recording_0.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_video_recording_0.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_video_pause.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_video_pause.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_ykzx_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_ykzx_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_sound_off.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_sound_off.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_e.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_e.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_route_track_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_route_track_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_dialog_recording.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\icon_dialog_recording.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_navi_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_navi_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_edog_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_edog_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_unlock_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_unlock_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_setting_item_bg_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_setting_item_bg_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_musicol_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_musicol_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_weme_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_weme_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_dialer_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_dialer_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_message_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_message_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_near_search_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_near_search_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_near_search_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_near_search_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_airplane_off.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_airplane_off.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_switch_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_switch_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_cloudcenter_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_cloudcenter_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_multimedia_video_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_multimedia_video_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_sound_on.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_sound_on.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_clouddialer_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_clouddialer_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_r.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_r.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_weme_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_weme_pressed.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_bluetooth_on.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_bluetooth_on.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_fm_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_fm_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_navi_history_delete.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_navi_history_delete.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_video_record.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_video_record.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_video_unlock.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_video_unlock.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_wifi_full_3.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_wifi_full_3.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_hsv_shadow_left.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_hsv_shadow_left.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_gallery.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_gallery.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qs_signal_full_2.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_qs_signal_full_2.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_media_search_frame.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_media_search_frame.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_main_edog_normal.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_main_edog_normal.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_setting_top_bar_bg.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_setting_top_bar_bg.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\CarLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ui_camera_video_size_1080_pressed.png",
+        "source": "F:\\OneDrive\\xctx\\CarLauncher\\app\\src\\main\\res\\drawable-mdpi\\ui_camera_video_size_1080_pressed.png"
+    }
+]

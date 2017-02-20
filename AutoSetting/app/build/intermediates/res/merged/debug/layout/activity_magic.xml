@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/textPass"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:hint="@string/magic_hint_input_pass"
+        android:inputType="textPassword"
+        android:maxLength="5"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:textColor="@color/magic_btn_text_color"
+        android:textColorHint="#cccccc"
+        android:textSize="@dimen/magic_btn_text_size" />
+
+    <RelativeLayout
+        android:id="@+id/layoutMagic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textPass"
+        android:layout_marginTop="10dp"
+        android:visibility="invisible" >
+
+        <LinearLayout
+            android:id="@+id/layoutRow1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/magic_btn_height"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btnDeviceTest"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="match_parent"
+                android:text="@string/magic_device_test"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnSystemSetting"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="match_parent"
+                android:text="@string/magic_system_setting"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size" />
+
+            <Button
+                android:id="@+id/btnEngineerMode"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="match_parent"
+                android:text="@string/magic_engineer_mode"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size" />
+
+            <Button
+                android:id="@+id/btnMtkLogger"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="match_parent"
+                android:text="@string/magic_mtk_logger"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size" />
+
+            <Button
+                android:id="@+id/btnCPUInfo"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="@dimen/magic_btn_height"
+                android:text="@string/magic_cpu_info"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutRow2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/magic_btn_height"
+            android:layout_below="@+id/layoutRow1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btnDeveloperSetting"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="@dimen/magic_btn_height"
+                android:text="@string/magic_developer_option"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size" />
+
+            <Button
+                android:id="@+id/btnApplication"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="@dimen/magic_btn_height"
+                android:text="@string/magic_application"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size" />
+
+            <Button
+                android:id="@+id/btnCamera"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="@dimen/magic_btn_height"
+                android:text="@string/magic_system_camera"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size" />
+
+            <Button
+                android:id="@+id/btnOpenImageSensor"
+                android:layout_width="@dimen/magic_btn_width"
+                android:layout_height="@dimen/magic_btn_height"
+                android:text="@string/magic_open_img_sensor"
+                android:textColor="@color/magic_btn_text_color"
+                android:textSize="@dimen/magic_btn_text_size" />
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/magic_btn_height"
+            android:layout_below="@+id/layoutRow2" >
+
+            <LinearLayout
+                android:id="@+id/layoutRow3"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/magic_btn_height"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/magic_back_record" />
+
+                <Switch
+                    android:id="@+id/switchAccOffWake"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:textOff="@string/magic_back_off"
+                    android:textOn="@string/magic_back_on" />
+
+                <Button
+                    android:id="@+id/btnOpenCpuTemp"
+                    android:layout_width="@dimen/magic_btn_width_half"
+                    android:layout_height="@dimen/magic_btn_height"
+                    android:text="@string/magic_open_cpu_temp"
+                    android:textColor="@color/magic_btn_text_color"
+                    android:textSize="@dimen/magic_btn_text_size_half" />
+
+                <Button
+                    android:id="@+id/btnCloseCpuTemp"
+                    android:layout_width="@dimen/magic_btn_width_half"
+                    android:layout_height="@dimen/magic_btn_height"
+                    android:text="@string/magic_close_cpu_temp"
+                    android:textColor="@color/magic_btn_text_color"
+                    android:textSize="@dimen/magic_btn_text_size_half" />
+
+                <Switch
+                    android:id="@+id/switchFM"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:textOff="@string/magic_fm_off"
+                    android:textOn="@string/magic_fm_on"
+                    android:visibility="gone" />
+
+                <Switch
+                    android:id="@+id/switchUVC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:textOff="@string/magic_usb_mode"
+                    android:textOn="@string/magic_uvc_mode" />
+
+                <EditText
+                    android:id="@+id/textInput"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/magic_input_audio_channel"
+                    android:textColor="@color/magic_btn_text_color"
+                    android:textColorHint="#cccccc"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/btnSet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/magic_audio_set"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/textHint"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/text_hint"
+                    android:textColor="@color/magic_btn_text_color"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutRecord"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textPass"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/textHintReboot"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:text="@string/set_success_reboot"
+            android:textColor="@color/magic_btn_text_color"
+            android:textSize="@dimen/setting_system_bright_text_size" />
+
+        <TextView
+            android:id="@+id/textBitrateFrontTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_below="@id/textHintReboot"
+            android:text="@string/magic_record_bitrate_front"
+            android:textColor="#cccccc"
+            android:textSize="@dimen/setting_system_bright_text_size" />
+
+        <RadioGroup
+            android:id="@+id/frontBitrateGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/textBitrateFrontTitle"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/textBitrateFrontTitle"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/textBitrateFrontTitle"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/frontBitrate6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_6m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/frontBitrate7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_7m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/frontBitrate8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_8m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/frontBitrate9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_9m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/frontBitrate10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_10m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/frontBitrate12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_12m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textBitrateBackTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_below="@id/textBitrateFrontTitle"
+            android:layout_marginTop="15dp"
+            android:text="@string/magic_record_bitrate_back"
+            android:textColor="#cccccc"
+            android:textSize="@dimen/setting_system_bright_text_size" />
+
+        <RadioGroup
+            android:id="@+id/backBitrateGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/textBitrateBackTitle"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/textBitrateBackTitle"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/textBitrateBackTitle"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/backBitrate05"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_05m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/backBitrate1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_1m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/backBitrate2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_2m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/backBitrate3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_3m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+
+            <RadioButton
+                android:id="@+id/backBitrate4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/setting_system_bright_radio_margin"
+                android:text="@string/magic_record_bitrate_4m"
+                android:textColor="@color/display_item_text_color"
+                android:textSize="@dimen/setting_system_bright_text_size" />
+        </RadioGroup>
+    </RelativeLayout>
+
+</RelativeLayout>

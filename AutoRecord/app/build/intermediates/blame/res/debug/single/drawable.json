@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_mute.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_mute.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_unlock.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_unlock.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_lock.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_lock.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_length_3m.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_length_3m.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_unmute.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_unmute.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_switch.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\camera_switch.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_size_fhd.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_size_fhd.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_stop.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_stop.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_size_hd.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_size_hd.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_length_1m.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_length_1m.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_take.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\photo_take.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoRecord\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_start.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoRecord\\app\\src\\main\\res\\drawable\\video_start.xml"
+    }
+]

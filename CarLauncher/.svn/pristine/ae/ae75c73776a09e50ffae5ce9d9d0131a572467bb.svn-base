@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">CarLauncher</string>
+
+    <!-- MainActivity -->
+    <string name="unknown">未知</string>
+    <string name="title_navigation">导航</string>
+    <string name="title_cloudpick">一键接人</string>
+    <string name="title_music_online">在线音乐</string>
+    <string name="title_ecar_online">翼卡在线</string>
+    <string name="title_edog">电子狗</string>
+    <string name="title_ximalaya">网络电台</string>
+    <string name="title_multimedia">多媒体</string>
+    <string name="title_drive_route">行车轨迹</string>
+    <string name="title_file_manager">文件管理</string>
+    <string name="title_message">短信</string>
+    <string name="title_fm_transmit">FM发射</string>
+    <string name="title_phone">电话</string>
+    <string name="title_clouddialer">云电话</string>
+    <string name="title_setting">设置</string>
+    <string name="title_wechat">微信助手</string>
+    <string name="title_weme">道客</string>
+    <string name="title_cloudcenter">云中心</string>
+    <string name="picture">图片</string>
+    <string name="video">视频</string>
+    <string name="hint_video_lock">视频加锁</string>
+    <string name="hint_video_unlock">视频解锁</string>
+    <string name="hint_video_size_720">分辨率七二零P</string>
+    <string name="hint_video_size_1080">分辨率一零八零P</string>
+    <string name="hint_video_time_3">视频分段三分钟</string>
+    <string name="hint_video_time_1">视频分段一分钟</string>
+    <string name="hint_video_mute_off">录音</string>
+    <string name="hint_video_mute_on">静音</string>
+    <string name="hint_no_network">无网络</string>
+    <string name="hint_start_park_monitor_after_90">九十秒后启动停车守卫</string>
+    <string name="hint_stop_record_power_unconnect">电源断开，停止录像</string>
+    <string name="hint_device_going_sleep">进入休眠</string>
+    <string name="hint_stop_record_sleeping">正在休眠</string>
+    <string name="hint_sd2_not_exist">存储卡二不存在</string>
+    <string name="hint_sd1_not_exist">存储卡一不存在</string>
+    <string name="hint_sd_remove_badly">存储卡异常，停止录像</string>
+    <string name="hint_sd2_format">格式化存储卡，停止录像</string>
+    <string name="hint_going_shutdown">系统关机，停止录像</string>
+    <string name="hint_photo_save">照片已保存</string>
+    <string name="hint_storage_full_and_delete_lock">空间不足，将清理加锁视频</string>
+    <string name="hint_storage_full_cause_by_other">空间不足，请清理存储卡2</string>
+    <string name="hint_record_start">开始录像</string>
+    <string name="hint_record_stop">停止录像</string>
+    <string name="hint_not_record">未录像</string>
+    <string name="default_record_time">00 : 00</string>
+    <string name="short_record">REC</string>
+    <string name="hint_save_video_error">视频保存失败</string>
+    <string name="hint_save_photo_error">图片保存失败</string>
+
+    <!-- MyUncaughtExceptionHandler -->
+    <string name="app_has_exception">很抱歉录像异常,正在尝试恢复,如黑屏请重启系统</string>
+
+</resources>

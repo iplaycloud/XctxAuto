@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_setting_volume_bg.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\drawable\\shape_setting_volume_bg.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_quick_setting_bg.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\drawable\\shape_quick_setting_bg.xml"
+    },
+    {
+        "merged": "F:\\OneDrive\\xctx\\AutoSetting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_back_arrow_bg_transparent.xml",
+        "source": "F:\\OneDrive\\xctx\\AutoSetting\\app\\src\\main\\res\\drawable\\ui_back_arrow_bg_transparent.xml"
+    }
+]

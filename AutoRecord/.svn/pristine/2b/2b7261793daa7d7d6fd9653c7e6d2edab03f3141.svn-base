@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="icon_hint_text_color">#ffffff</color>
+
+    <!-- FlashCleanDialog -->
+    <color name="dialog_flash_clean_title">#eeeeee</color>
+    <color name="dialog_flash_clean_message">#ffffff</color>
+    <color name="dialog_flash_clean_button">#17ddcd</color>
+
+</resources>
